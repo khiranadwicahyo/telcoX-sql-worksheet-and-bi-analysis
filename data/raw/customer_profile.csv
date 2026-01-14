@@ -1,0 +1,2001 @@
+customer_id,age,region,segment,tenure_month,plan_id
+1,56,Sumatera,Senior,35,2
+2,69,Jawa Timur,Senior,46,2
+3,46,Sumatera,Youth,40,1
+4,32,Jawa Timur,Senior,28,1
+5,60,Jawa Barat,Senior,1,3
+6,25,Jawa Tengah,Senior,42,1
+7,38,Jawa Timur,Adult,18,1
+8,56,Kalimantan,Senior,40,2
+9,36,Sulawesi,Youth,33,3
+10,40,Jakarta,Adult,12,1
+11,28,Kalimantan,Youth,8,2
+12,28,Kalimantan,Senior,24,1
+13,41,Sulawesi,Adult,16,1
+14,53,Jakarta,Youth,4,1
+15,57,Kalimantan,Senior,38,3
+16,41,Jawa Timur,Youth,44,1
+17,20,Jawa Timur,Youth,27,1
+18,39,Jawa Timur,Youth,9,2
+19,19,Jakarta,Senior,47,3
+20,41,Kalimantan,Senior,16,1
+21,61,Jakarta,Youth,12,2
+22,47,Jawa Timur,Adult,31,1
+23,55,Sulawesi,Adult,24,2
+24,19,Kalimantan,Senior,14,2
+25,38,Kalimantan,Senior,45,2
+26,50,Sumatera,Senior,25,1
+27,29,Sumatera,Senior,34,1
+28,39,Jawa Barat,Senior,3,1
+29,61,Jawa Tengah,Adult,24,2
+30,42,Sumatera,Senior,42,1
+31,66,Jakarta,Youth,9,3
+32,44,Sumatera,Youth,26,4
+33,59,Jawa Barat,Adult,20,4
+34,45,Kalimantan,Youth,40,3
+35,33,Jawa Barat,Adult,10,2
+36,32,Kalimantan,Adult,19,3
+37,64,Sulawesi,Youth,3,1
+38,68,Sulawesi,Senior,24,2
+39,61,Kalimantan,Youth,5,2
+40,69,Jawa Tengah,Youth,3,2
+41,20,Sumatera,Adult,27,3
+42,54,Jakarta,Youth,16,1
+43,68,Jakarta,Adult,15,1
+44,24,Jawa Timur,Senior,35,4
+45,38,Kalimantan,Senior,12,1
+46,26,Jakarta,Senior,41,2
+47,56,Jawa Tengah,Youth,44,4
+48,35,Kalimantan,Adult,26,2
+49,21,Jawa Tengah,Senior,47,2
+50,42,Jakarta,Adult,34,1
+51,31,Jakarta,Adult,23,1
+52,67,Jawa Timur,Senior,31,3
+53,26,Jakarta,Senior,20,2
+54,43,Kalimantan,Adult,12,2
+55,19,Sulawesi,Senior,23,1
+56,37,Kalimantan,Adult,4,1
+57,45,Kalimantan,Adult,23,4
+58,64,Jawa Timur,Senior,1,2
+59,24,Jawa Timur,Youth,25,2
+60,61,Jakarta,Senior,2,1
+61,25,Jawa Barat,Youth,30,2
+62,64,Jawa Barat,Adult,3,4
+63,52,Jawa Timur,Adult,21,2
+64,31,Jakarta,Youth,25,1
+65,34,Jawa Barat,Adult,20,2
+66,53,Jakarta,Youth,22,3
+67,67,Jakarta,Youth,21,2
+68,57,Jakarta,Adult,33,3
+69,21,Sumatera,Youth,38,2
+70,19,Kalimantan,Senior,15,3
+71,23,Jakarta,Senior,46,2
+72,59,Sumatera,Adult,15,1
+73,21,Jawa Timur,Adult,46,1
+74,46,Jawa Barat,Youth,25,1
+75,35,Kalimantan,Youth,21,4
+76,43,Sulawesi,Youth,24,3
+77,61,Jawa Barat,Youth,5,2
+78,51,Kalimantan,Senior,6,1
+79,27,Sulawesi,Senior,43,1
+80,53,Jawa Barat,Adult,44,3
+81,31,Kalimantan,Youth,47,2
+82,48,Jawa Barat,Youth,23,1
+83,65,Jawa Barat,Adult,4,2
+84,32,Sulawesi,Youth,27,1
+85,25,Jawa Barat,Youth,18,1
+86,31,Jawa Barat,Youth,21,2
+87,40,Sulawesi,Youth,28,1
+88,57,Jawa Timur,Youth,35,4
+89,38,Jakarta,Adult,22,1
+90,33,Jawa Tengah,Youth,40,1
+91,62,Sumatera,Adult,23,1
+92,35,Jawa Tengah,Youth,3,3
+93,64,Jawa Tengah,Senior,40,2
+94,41,Kalimantan,Senior,10,2
+95,43,Jakarta,Senior,25,1
+96,42,Kalimantan,Senior,8,1
+97,62,Jakarta,Adult,11,2
+98,58,Sulawesi,Adult,5,3
+99,46,Sulawesi,Youth,45,3
+100,32,Jakarta,Senior,37,1
+101,62,Jawa Barat,Adult,45,2
+102,18,Jawa Timur,Youth,38,4
+103,42,Jawa Barat,Youth,29,2
+104,24,Jawa Timur,Adult,5,3
+105,26,Kalimantan,Senior,9,1
+106,41,Jawa Timur,Youth,2,4
+107,18,Kalimantan,Senior,1,3
+108,61,Sulawesi,Senior,40,4
+109,25,Jawa Tengah,Senior,30,2
+110,41,Sulawesi,Youth,11,2
+111,28,Sulawesi,Senior,28,4
+112,68,Jawa Tengah,Youth,44,1
+113,34,Jawa Timur,Senior,12,1
+114,25,Jawa Timur,Youth,39,3
+115,52,Kalimantan,Senior,26,3
+116,52,Jawa Barat,Adult,13,4
+117,50,Kalimantan,Senior,8,1
+118,22,Jawa Barat,Senior,28,3
+119,59,Sulawesi,Youth,30,3
+120,56,Jawa Tengah,Youth,9,1
+121,58,Sulawesi,Senior,39,2
+122,45,Jakarta,Adult,31,1
+123,24,Jawa Timur,Adult,21,1
+124,26,Jawa Barat,Youth,47,4
+125,25,Kalimantan,Adult,34,2
+126,29,Jawa Tengah,Senior,31,3
+127,51,Jawa Barat,Youth,25,4
+128,50,Kalimantan,Senior,12,2
+129,65,Jawa Timur,Youth,1,3
+130,40,Sulawesi,Youth,22,2
+131,41,Jawa Timur,Youth,40,3
+132,54,Sumatera,Youth,37,1
+133,52,Jakarta,Adult,47,4
+134,61,Sumatera,Senior,1,1
+135,57,Jawa Tengah,Senior,1,1
+136,39,Jawa Barat,Senior,42,3
+137,44,Jawa Tengah,Youth,42,2
+138,52,Sulawesi,Adult,21,2
+139,18,Kalimantan,Senior,15,2
+140,52,Jawa Timur,Adult,17,3
+141,54,Sumatera,Youth,22,1
+142,64,Sumatera,Senior,38,1
+143,31,Sulawesi,Adult,35,1
+144,20,Sumatera,Youth,45,2
+145,18,Sulawesi,Adult,16,1
+146,22,Jawa Tengah,Senior,8,2
+147,43,Jawa Timur,Senior,47,2
+148,31,Jawa Barat,Youth,17,1
+149,56,Kalimantan,Youth,17,2
+150,44,Jawa Barat,Youth,26,3
+151,26,Jawa Tengah,Adult,13,1
+152,32,Kalimantan,Adult,17,2
+153,32,Sumatera,Adult,38,2
+154,43,Jakarta,Youth,17,2
+155,59,Jawa Tengah,Senior,14,3
+156,30,Jawa Tengah,Senior,45,2
+157,68,Jawa Timur,Adult,6,2
+158,49,Jawa Barat,Adult,35,1
+159,56,Jawa Tengah,Senior,46,2
+160,66,Jawa Tengah,Senior,14,2
+161,69,Sumatera,Adult,47,1
+162,49,Sumatera,Adult,8,2
+163,21,Kalimantan,Senior,15,4
+164,47,Sulawesi,Youth,27,2
+165,54,Sulawesi,Adult,13,2
+166,40,Jakarta,Senior,31,4
+167,56,Sulawesi,Senior,35,3
+168,62,Jawa Timur,Senior,6,2
+169,32,Jakarta,Senior,5,3
+170,60,Kalimantan,Youth,22,3
+171,46,Sumatera,Senior,23,2
+172,53,Sulawesi,Adult,25,2
+173,30,Jawa Barat,Youth,34,2
+174,49,Sumatera,Senior,26,4
+175,24,Jawa Timur,Youth,47,2
+176,68,Sumatera,Adult,5,1
+177,39,Jawa Timur,Senior,26,3
+178,45,Jawa Timur,Adult,20,2
+179,19,Jawa Timur,Senior,6,1
+180,59,Kalimantan,Senior,6,2
+181,62,Jawa Timur,Senior,18,2
+182,23,Jawa Timur,Senior,4,3
+183,45,Jawa Barat,Senior,17,1
+184,45,Jakarta,Youth,14,3
+185,61,Jawa Tengah,Senior,14,2
+186,61,Jakarta,Senior,13,1
+187,37,Jawa Timur,Youth,7,4
+188,47,Jawa Barat,Youth,44,2
+189,28,Sumatera,Youth,15,1
+190,45,Jawa Barat,Youth,19,2
+191,42,Jawa Timur,Youth,43,3
+192,56,Jawa Barat,Youth,47,1
+193,50,Sulawesi,Senior,44,1
+194,18,Jawa Barat,Senior,35,1
+195,44,Jawa Timur,Adult,17,1
+196,69,Kalimantan,Senior,35,3
+197,30,Sulawesi,Senior,19,2
+198,58,Jawa Barat,Youth,20,1
+199,20,Jawa Tengah,Youth,36,1
+200,56,Jawa Tengah,Senior,35,1
+201,23,Jawa Barat,Adult,32,4
+202,25,Kalimantan,Youth,44,1
+203,44,Sumatera,Senior,40,4
+204,26,Jawa Timur,Senior,24,2
+205,54,Jawa Tengah,Adult,17,1
+206,50,Sumatera,Adult,7,3
+207,68,Jawa Barat,Youth,43,2
+208,59,Sumatera,Adult,1,3
+209,61,Sulawesi,Senior,35,4
+210,41,Jakarta,Senior,32,1
+211,32,Jawa Tengah,Adult,36,1
+212,49,Jawa Barat,Adult,13,3
+213,49,Jawa Timur,Adult,6,1
+214,41,Kalimantan,Adult,14,1
+215,58,Sulawesi,Youth,37,1
+216,69,Jawa Barat,Adult,15,1
+217,66,Jawa Timur,Youth,47,3
+218,66,Kalimantan,Senior,4,1
+219,69,Kalimantan,Adult,40,2
+220,29,Jawa Barat,Youth,16,2
+221,56,Sulawesi,Adult,28,2
+222,19,Sumatera,Senior,16,1
+223,20,Sumatera,Senior,4,3
+224,66,Kalimantan,Senior,45,1
+225,54,Sumatera,Adult,26,3
+226,66,Jakarta,Adult,28,3
+227,34,Kalimantan,Youth,32,2
+228,66,Kalimantan,Senior,45,2
+229,19,Jawa Timur,Adult,2,2
+230,19,Sumatera,Senior,31,2
+231,45,Sulawesi,Senior,3,3
+232,40,Kalimantan,Youth,8,3
+233,54,Sulawesi,Youth,24,1
+234,49,Jakarta,Youth,15,2
+235,50,Jawa Timur,Youth,43,4
+236,18,Jawa Barat,Senior,31,4
+237,36,Sulawesi,Youth,9,2
+238,19,Kalimantan,Youth,39,2
+239,61,Jakarta,Youth,45,1
+240,43,Jawa Tengah,Youth,2,4
+241,49,Jakarta,Senior,8,1
+242,23,Jakarta,Youth,7,2
+243,49,Jawa Timur,Senior,44,1
+244,21,Jawa Barat,Adult,39,1
+245,28,Jawa Tengah,Senior,42,2
+246,34,Sumatera,Senior,16,4
+247,55,Sumatera,Youth,35,1
+248,41,Sulawesi,Adult,30,2
+249,22,Jakarta,Adult,10,1
+250,69,Jawa Timur,Adult,38,1
+251,51,Jawa Timur,Adult,18,2
+252,23,Sumatera,Senior,5,2
+253,39,Sulawesi,Adult,29,1
+254,28,Sulawesi,Senior,39,1
+255,65,Sulawesi,Senior,34,1
+256,33,Jawa Tengah,Senior,43,1
+257,50,Jawa Barat,Adult,45,4
+258,26,Jawa Tengah,Youth,23,4
+259,23,Kalimantan,Youth,5,1
+260,33,Kalimantan,Adult,30,2
+261,46,Jawa Barat,Youth,6,4
+262,20,Sumatera,Youth,46,1
+263,37,Jawa Barat,Senior,44,3
+264,53,Jawa Timur,Senior,4,4
+265,36,Kalimantan,Adult,29,1
+266,43,Jakarta,Adult,23,1
+267,20,Jakarta,Youth,6,4
+268,36,Sumatera,Senior,32,2
+269,37,Jawa Timur,Adult,42,1
+270,49,Jawa Tengah,Adult,18,1
+271,24,Jawa Timur,Adult,15,2
+272,69,Jakarta,Adult,40,2
+273,58,Jakarta,Adult,32,3
+274,50,Kalimantan,Adult,9,4
+275,57,Jawa Timur,Youth,37,1
+276,56,Jawa Timur,Senior,10,2
+277,35,Jakarta,Senior,20,2
+278,57,Jawa Tengah,Adult,6,2
+279,18,Sumatera,Senior,3,1
+280,28,Sulawesi,Senior,42,4
+281,45,Sumatera,Senior,11,3
+282,42,Jawa Timur,Adult,43,2
+283,67,Sumatera,Adult,17,2
+284,40,Jakarta,Senior,32,1
+285,48,Jakarta,Senior,4,2
+286,47,Jawa Timur,Adult,4,2
+287,59,Jawa Timur,Youth,17,2
+288,52,Sulawesi,Senior,41,4
+289,24,Sulawesi,Youth,19,2
+290,33,Kalimantan,Senior,5,2
+291,43,Jawa Timur,Youth,32,3
+292,65,Jawa Tengah,Youth,22,1
+293,69,Sumatera,Youth,6,2
+294,66,Jawa Timur,Adult,35,1
+295,19,Jawa Barat,Youth,22,2
+296,18,Kalimantan,Youth,1,3
+297,65,Jawa Barat,Youth,20,2
+298,29,Jakarta,Senior,22,3
+299,22,Sulawesi,Youth,11,2
+300,54,Sumatera,Senior,13,1
+301,49,Jawa Timur,Youth,42,3
+302,26,Jawa Barat,Youth,3,1
+303,58,Sumatera,Adult,9,1
+304,52,Jakarta,Senior,12,2
+305,36,Sulawesi,Youth,23,1
+306,65,Jawa Tengah,Senior,14,1
+307,33,Kalimantan,Senior,33,2
+308,20,Sumatera,Adult,18,2
+309,37,Sumatera,Adult,41,2
+310,41,Jawa Tengah,Adult,9,4
+311,50,Sumatera,Adult,23,2
+312,41,Jakarta,Adult,10,3
+313,69,Jakarta,Adult,19,1
+314,28,Jawa Tengah,Adult,47,2
+315,66,Kalimantan,Adult,5,3
+316,25,Jawa Timur,Youth,47,2
+317,53,Jawa Barat,Senior,23,3
+318,55,Jawa Timur,Adult,30,2
+319,57,Sumatera,Adult,25,1
+320,37,Jawa Barat,Senior,28,2
+321,52,Jawa Tengah,Youth,34,2
+322,65,Jawa Tengah,Senior,45,3
+323,42,Kalimantan,Senior,47,1
+324,52,Jawa Barat,Adult,25,4
+325,42,Jakarta,Senior,10,4
+326,46,Jawa Barat,Senior,14,1
+327,35,Sumatera,Adult,42,1
+328,63,Jakarta,Adult,46,3
+329,35,Sulawesi,Adult,30,4
+330,19,Sulawesi,Adult,41,2
+331,52,Sulawesi,Senior,25,1
+332,33,Jawa Tengah,Senior,14,2
+333,58,Jawa Barat,Youth,35,2
+334,53,Sulawesi,Youth,34,1
+335,50,Jawa Timur,Senior,10,3
+336,21,Kalimantan,Youth,35,1
+337,50,Jawa Timur,Senior,11,1
+338,31,Sulawesi,Youth,11,2
+339,38,Kalimantan,Adult,21,2
+340,65,Sumatera,Youth,21,1
+341,37,Jawa Timur,Adult,22,2
+342,25,Jawa Barat,Adult,45,1
+343,24,Jawa Barat,Adult,7,1
+344,20,Jawa Timur,Adult,17,1
+345,34,Sulawesi,Youth,2,4
+346,50,Jawa Barat,Senior,12,2
+347,65,Sumatera,Adult,42,2
+348,29,Jakarta,Youth,18,2
+349,68,Sulawesi,Adult,11,4
+350,39,Sumatera,Youth,16,1
+351,39,Kalimantan,Youth,18,2
+352,63,Sumatera,Youth,35,3
+353,47,Sulawesi,Senior,26,2
+354,55,Kalimantan,Youth,16,1
+355,55,Sulawesi,Youth,6,2
+356,62,Jawa Barat,Senior,44,1
+357,68,Jakarta,Senior,43,2
+358,25,Sulawesi,Youth,47,3
+359,44,Sulawesi,Senior,47,1
+360,44,Jawa Barat,Adult,42,3
+361,51,Jawa Tengah,Adult,12,1
+362,38,Jawa Barat,Senior,13,3
+363,47,Kalimantan,Senior,4,2
+364,50,Jawa Barat,Youth,39,1
+365,45,Jawa Barat,Senior,2,1
+366,64,Jakarta,Youth,26,4
+367,50,Jawa Barat,Adult,27,1
+368,22,Sulawesi,Senior,27,1
+369,65,Jakarta,Youth,15,1
+370,36,Jawa Timur,Youth,8,2
+371,21,Jawa Tengah,Adult,7,2
+372,52,Jakarta,Senior,47,1
+373,66,Kalimantan,Adult,46,1
+374,34,Jawa Timur,Youth,40,1
+375,61,Jakarta,Youth,12,1
+376,45,Jakarta,Senior,13,2
+377,47,Jawa Tengah,Youth,43,3
+378,46,Sulawesi,Senior,17,1
+379,63,Kalimantan,Adult,17,2
+380,23,Sumatera,Senior,36,2
+381,52,Sumatera,Senior,21,4
+382,58,Jakarta,Youth,8,4
+383,54,Jawa Barat,Youth,5,3
+384,41,Kalimantan,Senior,26,1
+385,46,Jawa Timur,Youth,16,1
+386,66,Jawa Barat,Youth,36,1
+387,63,Jawa Barat,Youth,28,1
+388,48,Kalimantan,Senior,29,2
+389,52,Sulawesi,Youth,47,3
+390,50,Jakarta,Senior,12,3
+391,69,Jakarta,Youth,37,3
+392,38,Jakarta,Adult,30,2
+393,49,Jakarta,Youth,23,2
+394,40,Sumatera,Youth,16,1
+395,50,Jakarta,Senior,14,1
+396,20,Sumatera,Senior,10,3
+397,35,Sumatera,Youth,7,1
+398,42,Sulawesi,Adult,45,2
+399,59,Jakarta,Youth,37,1
+400,48,Jawa Tengah,Youth,29,2
+401,20,Jawa Timur,Adult,3,3
+402,57,Jawa Barat,Senior,15,1
+403,63,Sumatera,Youth,36,3
+404,41,Kalimantan,Senior,47,1
+405,67,Kalimantan,Senior,46,2
+406,49,Jawa Timur,Adult,19,3
+407,64,Kalimantan,Adult,13,2
+408,39,Jawa Tengah,Senior,42,4
+409,40,Kalimantan,Youth,21,1
+410,19,Jawa Barat,Senior,37,2
+411,44,Jawa Barat,Youth,27,2
+412,59,Sumatera,Youth,29,4
+413,19,Jakarta,Adult,20,1
+414,43,Sulawesi,Youth,25,3
+415,34,Jawa Tengah,Youth,6,2
+416,57,Sumatera,Senior,36,1
+417,50,Jawa Tengah,Adult,2,2
+418,26,Jakarta,Youth,22,1
+419,60,Kalimantan,Youth,32,2
+420,65,Kalimantan,Adult,16,3
+421,56,Sulawesi,Senior,18,2
+422,46,Jakarta,Adult,5,2
+423,59,Sumatera,Adult,36,2
+424,43,Sulawesi,Youth,30,1
+425,52,Jakarta,Youth,45,1
+426,67,Jawa Timur,Senior,19,2
+427,42,Jawa Barat,Youth,23,1
+428,41,Sulawesi,Youth,34,1
+429,30,Sulawesi,Adult,13,2
+430,24,Sumatera,Youth,43,1
+431,53,Jawa Tengah,Senior,29,1
+432,62,Jawa Timur,Adult,36,2
+433,37,Sumatera,Senior,22,1
+434,18,Jakarta,Adult,47,4
+435,25,Jakarta,Youth,36,3
+436,63,Jakarta,Adult,9,3
+437,33,Jakarta,Adult,39,1
+438,31,Jawa Tengah,Youth,19,3
+439,29,Jawa Timur,Youth,38,3
+440,68,Kalimantan,Senior,6,3
+441,40,Jawa Barat,Senior,47,1
+442,32,Jawa Tengah,Youth,15,2
+443,45,Jawa Tengah,Youth,20,3
+444,51,Kalimantan,Youth,9,2
+445,19,Kalimantan,Adult,32,2
+446,49,Jawa Barat,Adult,4,2
+447,40,Jawa Barat,Adult,18,2
+448,39,Kalimantan,Youth,5,1
+449,68,Jakarta,Senior,20,2
+450,42,Jawa Tengah,Youth,23,1
+451,39,Sumatera,Adult,11,2
+452,39,Jawa Barat,Adult,37,1
+453,66,Jawa Barat,Youth,22,2
+454,69,Kalimantan,Youth,4,1
+455,59,Jawa Timur,Adult,29,2
+456,23,Sumatera,Adult,44,3
+457,32,Sumatera,Adult,34,1
+458,60,Jawa Barat,Youth,13,1
+459,54,Jakarta,Adult,42,1
+460,50,Jawa Timur,Adult,9,3
+461,25,Sumatera,Senior,42,2
+462,61,Jawa Barat,Youth,31,2
+463,61,Sumatera,Senior,7,1
+464,22,Sulawesi,Senior,4,2
+465,56,Jawa Timur,Adult,19,3
+466,21,Jawa Timur,Youth,42,3
+467,23,Sulawesi,Adult,30,2
+468,62,Jawa Tengah,Youth,31,1
+469,49,Sulawesi,Senior,35,1
+470,69,Kalimantan,Youth,21,1
+471,47,Kalimantan,Adult,31,1
+472,64,Jawa Barat,Adult,19,1
+473,52,Jawa Timur,Adult,31,1
+474,57,Jawa Tengah,Youth,32,2
+475,69,Jawa Tengah,Senior,2,4
+476,33,Sumatera,Senior,10,2
+477,30,Sumatera,Youth,2,3
+478,67,Sulawesi,Adult,2,3
+479,59,Jawa Tengah,Senior,24,1
+480,47,Sulawesi,Adult,17,3
+481,36,Sulawesi,Youth,32,1
+482,34,Sumatera,Adult,16,2
+483,36,Jawa Timur,Senior,16,1
+484,45,Sulawesi,Senior,46,4
+485,43,Jakarta,Adult,39,1
+486,54,Jawa Timur,Youth,31,1
+487,43,Jawa Tengah,Adult,43,4
+488,40,Jawa Tengah,Youth,24,1
+489,26,Sulawesi,Adult,1,2
+490,29,Jawa Timur,Senior,11,3
+491,18,Sumatera,Youth,21,3
+492,18,Sumatera,Youth,4,4
+493,64,Kalimantan,Youth,7,4
+494,51,Jawa Tengah,Senior,26,1
+495,49,Jawa Barat,Adult,47,3
+496,65,Kalimantan,Senior,12,2
+497,42,Sumatera,Youth,31,2
+498,57,Jawa Timur,Adult,17,1
+499,62,Sumatera,Senior,33,2
+500,18,Jawa Timur,Youth,11,4
+501,33,Kalimantan,Youth,28,4
+502,56,Jawa Tengah,Senior,32,2
+503,22,Sumatera,Senior,1,1
+504,39,Sulawesi,Senior,47,2
+505,46,Jawa Timur,Youth,28,3
+506,20,Jawa Tengah,Senior,42,3
+507,29,Jawa Barat,Youth,7,2
+508,43,Jawa Timur,Senior,2,1
+509,33,Kalimantan,Youth,42,2
+510,68,Jawa Barat,Youth,24,2
+511,54,Jawa Barat,Adult,4,4
+512,39,Jakarta,Senior,44,2
+513,46,Sumatera,Senior,19,1
+514,31,Jawa Timur,Youth,26,2
+515,45,Jawa Barat,Youth,11,1
+516,22,Jakarta,Youth,40,4
+517,64,Kalimantan,Adult,43,2
+518,66,Jawa Tengah,Adult,11,2
+519,47,Sulawesi,Youth,45,2
+520,63,Sulawesi,Senior,3,2
+521,69,Jawa Timur,Senior,12,2
+522,22,Jawa Barat,Adult,3,3
+523,29,Sulawesi,Adult,42,1
+524,33,Sumatera,Youth,27,1
+525,43,Sulawesi,Senior,2,1
+526,43,Sulawesi,Youth,16,2
+527,65,Sulawesi,Adult,2,1
+528,38,Jakarta,Senior,30,2
+529,56,Jawa Barat,Senior,20,3
+530,53,Sumatera,Adult,38,3
+531,50,Jawa Barat,Youth,28,2
+532,47,Jawa Timur,Youth,25,2
+533,54,Jawa Timur,Senior,32,1
+534,40,Jawa Timur,Adult,10,2
+535,27,Kalimantan,Senior,42,3
+536,22,Sulawesi,Adult,40,1
+537,53,Kalimantan,Youth,33,2
+538,51,Jakarta,Adult,13,3
+539,69,Jawa Timur,Youth,41,3
+540,48,Sumatera,Adult,42,1
+541,27,Jawa Barat,Senior,47,2
+542,36,Sulawesi,Youth,37,1
+543,49,Jawa Tengah,Senior,16,1
+544,18,Sumatera,Senior,45,4
+545,22,Sulawesi,Youth,22,3
+546,62,Kalimantan,Youth,20,3
+547,21,Kalimantan,Senior,43,1
+548,33,Sumatera,Senior,27,3
+549,41,Kalimantan,Senior,41,2
+550,33,Jawa Timur,Senior,16,1
+551,19,Jakarta,Youth,34,2
+552,66,Jawa Barat,Youth,32,1
+553,45,Jakarta,Senior,26,3
+554,49,Sulawesi,Adult,25,2
+555,44,Jawa Barat,Adult,2,1
+556,37,Jawa Barat,Youth,12,1
+557,41,Jakarta,Senior,40,1
+558,29,Sumatera,Senior,9,1
+559,67,Jawa Barat,Youth,12,2
+560,52,Jakarta,Adult,26,3
+561,50,Jawa Barat,Adult,9,1
+562,50,Jawa Tengah,Adult,10,1
+563,68,Sumatera,Youth,32,2
+564,60,Jawa Timur,Adult,34,3
+565,54,Jawa Barat,Youth,20,1
+566,29,Jawa Tengah,Youth,39,1
+567,20,Jawa Timur,Senior,2,2
+568,18,Jawa Timur,Adult,1,1
+569,50,Sulawesi,Youth,36,1
+570,57,Jawa Barat,Adult,24,3
+571,27,Jakarta,Adult,27,2
+572,60,Jawa Barat,Senior,2,2
+573,61,Jawa Tengah,Adult,31,3
+574,46,Jawa Timur,Senior,14,2
+575,30,Jawa Barat,Youth,2,1
+576,29,Jakarta,Adult,29,2
+577,48,Sulawesi,Youth,15,1
+578,63,Jawa Barat,Adult,12,1
+579,19,Sumatera,Youth,37,2
+580,68,Sulawesi,Adult,28,3
+581,67,Jakarta,Adult,20,4
+582,52,Jawa Tengah,Adult,39,2
+583,40,Jawa Timur,Adult,24,1
+584,34,Jawa Barat,Adult,21,1
+585,43,Jakarta,Adult,10,3
+586,25,Sulawesi,Adult,46,2
+587,46,Sumatera,Adult,14,2
+588,43,Jakarta,Adult,37,3
+589,27,Kalimantan,Youth,18,3
+590,43,Sumatera,Senior,24,3
+591,51,Sulawesi,Adult,14,1
+592,68,Jawa Tengah,Senior,34,3
+593,58,Jawa Timur,Adult,12,3
+594,24,Sulawesi,Adult,22,1
+595,21,Jawa Tengah,Youth,6,2
+596,67,Jawa Barat,Youth,36,1
+597,62,Jakarta,Senior,45,4
+598,28,Kalimantan,Youth,36,1
+599,46,Sumatera,Youth,22,2
+600,53,Sumatera,Senior,14,1
+601,42,Jakarta,Youth,16,3
+602,38,Kalimantan,Adult,36,1
+603,53,Jakarta,Senior,25,1
+604,27,Jawa Barat,Senior,32,2
+605,54,Jawa Tengah,Adult,33,4
+606,26,Sulawesi,Youth,45,1
+607,41,Sumatera,Senior,36,1
+608,52,Jawa Barat,Senior,20,3
+609,66,Jawa Tengah,Adult,18,2
+610,52,Jawa Barat,Adult,38,4
+611,65,Kalimantan,Youth,3,1
+612,53,Sumatera,Senior,23,2
+613,35,Sulawesi,Youth,32,1
+614,66,Jakarta,Youth,45,1
+615,56,Jakarta,Adult,16,2
+616,49,Jawa Tengah,Senior,5,2
+617,41,Sulawesi,Senior,4,3
+618,40,Jawa Timur,Senior,21,1
+619,49,Kalimantan,Adult,40,2
+620,54,Jawa Tengah,Adult,14,2
+621,29,Jawa Timur,Adult,39,4
+622,66,Jawa Barat,Adult,31,1
+623,30,Kalimantan,Adult,14,1
+624,40,Jawa Barat,Senior,6,2
+625,42,Sulawesi,Youth,12,2
+626,52,Sumatera,Senior,16,1
+627,58,Kalimantan,Youth,17,4
+628,47,Jawa Timur,Adult,45,1
+629,34,Sumatera,Youth,23,3
+630,66,Jakarta,Senior,14,1
+631,37,Jawa Timur,Senior,7,2
+632,65,Jawa Tengah,Youth,46,4
+633,42,Jakarta,Adult,32,1
+634,39,Jakarta,Adult,15,4
+635,30,Jawa Tengah,Senior,44,2
+636,36,Kalimantan,Youth,17,4
+637,66,Jakarta,Adult,41,2
+638,53,Sulawesi,Adult,47,1
+639,29,Jawa Timur,Senior,44,1
+640,58,Sumatera,Adult,34,1
+641,36,Jakarta,Youth,5,1
+642,29,Jawa Timur,Senior,45,1
+643,26,Jawa Barat,Senior,27,1
+644,24,Jawa Timur,Youth,23,2
+645,45,Sumatera,Senior,40,3
+646,31,Jawa Timur,Adult,14,1
+647,48,Jawa Tengah,Adult,15,1
+648,69,Sumatera,Youth,43,2
+649,36,Kalimantan,Adult,33,1
+650,64,Jawa Barat,Youth,31,1
+651,33,Jawa Tengah,Youth,35,1
+652,22,Kalimantan,Adult,17,4
+653,52,Jawa Timur,Youth,28,3
+654,29,Sumatera,Adult,19,2
+655,42,Jawa Barat,Senior,46,2
+656,69,Jawa Tengah,Senior,23,2
+657,38,Kalimantan,Youth,32,2
+658,53,Kalimantan,Adult,40,2
+659,40,Jawa Barat,Adult,13,2
+660,33,Sulawesi,Senior,20,1
+661,56,Jawa Timur,Senior,35,1
+662,62,Jawa Barat,Adult,5,2
+663,59,Kalimantan,Youth,9,3
+664,56,Jakarta,Senior,29,2
+665,31,Jawa Tengah,Youth,6,3
+666,48,Jawa Barat,Youth,25,4
+667,22,Sulawesi,Senior,31,1
+668,52,Kalimantan,Youth,22,2
+669,40,Jawa Timur,Youth,2,2
+670,46,Kalimantan,Adult,45,4
+671,60,Jawa Timur,Youth,5,4
+672,28,Jawa Barat,Adult,27,2
+673,35,Jawa Timur,Senior,25,1
+674,64,Sumatera,Senior,8,3
+675,29,Sumatera,Adult,1,1
+676,26,Sumatera,Senior,20,3
+677,27,Sulawesi,Youth,44,4
+678,61,Sulawesi,Youth,23,2
+679,34,Jakarta,Youth,32,2
+680,55,Sulawesi,Senior,11,2
+681,24,Jawa Barat,Youth,39,2
+682,63,Kalimantan,Senior,47,1
+683,30,Kalimantan,Youth,24,3
+684,57,Jakarta,Adult,11,4
+685,59,Sulawesi,Senior,29,4
+686,26,Jawa Timur,Senior,26,1
+687,67,Jakarta,Youth,16,3
+688,44,Jawa Timur,Senior,35,3
+689,19,Jawa Timur,Senior,20,1
+690,22,Jawa Tengah,Adult,46,1
+691,46,Kalimantan,Adult,3,1
+692,54,Sumatera,Youth,1,4
+693,55,Sulawesi,Adult,47,2
+694,36,Jawa Timur,Youth,1,3
+695,25,Jawa Tengah,Youth,17,1
+696,65,Kalimantan,Youth,2,3
+697,62,Sumatera,Senior,29,1
+698,18,Jawa Timur,Adult,20,2
+699,39,Jawa Timur,Youth,6,2
+700,69,Jakarta,Adult,8,1
+701,34,Jakarta,Youth,29,3
+702,24,Kalimantan,Adult,33,1
+703,42,Sumatera,Adult,3,2
+704,62,Jawa Timur,Youth,35,2
+705,21,Kalimantan,Senior,5,2
+706,53,Kalimantan,Adult,27,1
+707,23,Jawa Barat,Senior,44,1
+708,48,Sulawesi,Senior,12,4
+709,36,Jakarta,Youth,20,1
+710,61,Sumatera,Youth,45,3
+711,56,Jawa Timur,Youth,20,4
+712,44,Kalimantan,Adult,9,1
+713,27,Jawa Timur,Youth,39,1
+714,43,Jawa Barat,Youth,4,2
+715,36,Sumatera,Adult,19,4
+716,56,Kalimantan,Adult,38,4
+717,20,Jawa Timur,Youth,27,2
+718,62,Jakarta,Youth,45,3
+719,30,Sulawesi,Youth,43,1
+720,67,Jawa Barat,Youth,13,4
+721,45,Sumatera,Senior,13,4
+722,37,Jawa Barat,Senior,22,1
+723,45,Jakarta,Youth,28,1
+724,25,Sumatera,Senior,47,1
+725,58,Jawa Barat,Adult,45,1
+726,56,Jawa Tengah,Senior,22,3
+727,18,Jakarta,Senior,43,2
+728,20,Jakarta,Youth,19,1
+729,30,Jakarta,Senior,8,1
+730,45,Jawa Tengah,Senior,8,4
+731,66,Jawa Tengah,Senior,42,2
+732,42,Jawa Timur,Senior,26,2
+733,50,Kalimantan,Adult,26,1
+734,55,Sulawesi,Youth,23,4
+735,23,Jawa Barat,Youth,43,3
+736,61,Jawa Timur,Adult,13,1
+737,62,Jawa Barat,Senior,28,1
+738,49,Sulawesi,Adult,9,1
+739,62,Kalimantan,Senior,20,1
+740,64,Jawa Tengah,Adult,19,2
+741,38,Kalimantan,Youth,39,4
+742,33,Jawa Tengah,Youth,12,2
+743,38,Sulawesi,Youth,15,3
+744,28,Kalimantan,Senior,31,2
+745,54,Jawa Timur,Senior,14,3
+746,53,Sumatera,Adult,11,3
+747,52,Jawa Timur,Adult,26,1
+748,36,Jawa Barat,Youth,42,2
+749,37,Jawa Timur,Senior,27,2
+750,35,Sulawesi,Adult,11,1
+751,64,Jakarta,Senior,38,2
+752,58,Jawa Barat,Senior,34,2
+753,66,Kalimantan,Youth,43,4
+754,31,Jawa Barat,Youth,19,2
+755,32,Sumatera,Senior,6,3
+756,48,Jawa Tengah,Senior,46,2
+757,18,Kalimantan,Senior,38,3
+758,20,Jawa Barat,Senior,42,2
+759,33,Kalimantan,Youth,28,3
+760,40,Kalimantan,Adult,1,2
+761,28,Kalimantan,Youth,35,2
+762,29,Jawa Tengah,Adult,40,2
+763,27,Sulawesi,Senior,8,2
+764,49,Jawa Timur,Adult,47,1
+765,33,Kalimantan,Youth,7,1
+766,25,Jakarta,Youth,11,1
+767,55,Sulawesi,Senior,39,3
+768,29,Sumatera,Youth,4,1
+769,41,Jawa Tengah,Senior,25,1
+770,45,Jawa Barat,Youth,12,3
+771,25,Jawa Tengah,Youth,26,1
+772,45,Jawa Barat,Senior,38,2
+773,53,Jawa Tengah,Adult,46,1
+774,43,Jawa Barat,Youth,12,4
+775,25,Kalimantan,Adult,43,3
+776,67,Jawa Timur,Youth,37,3
+777,45,Jawa Barat,Youth,46,2
+778,45,Jawa Barat,Youth,24,3
+779,54,Jakarta,Youth,16,1
+780,58,Jawa Barat,Adult,13,1
+781,53,Jakarta,Adult,25,1
+782,44,Sumatera,Youth,4,2
+783,34,Kalimantan,Youth,11,2
+784,26,Jakarta,Adult,32,2
+785,50,Jawa Timur,Senior,7,1
+786,37,Sulawesi,Senior,46,2
+787,30,Kalimantan,Adult,11,3
+788,45,Jakarta,Youth,28,2
+789,65,Kalimantan,Youth,41,3
+790,46,Kalimantan,Senior,23,1
+791,30,Kalimantan,Senior,45,3
+792,63,Sumatera,Adult,23,2
+793,52,Jawa Timur,Senior,28,1
+794,23,Jawa Tengah,Adult,43,1
+795,35,Jawa Tengah,Senior,47,2
+796,68,Jakarta,Senior,26,3
+797,22,Kalimantan,Senior,25,2
+798,64,Jakarta,Youth,29,1
+799,42,Sumatera,Youth,19,3
+800,19,Sumatera,Youth,33,2
+801,27,Jawa Barat,Senior,36,2
+802,47,Sumatera,Adult,14,2
+803,67,Jawa Barat,Adult,14,1
+804,62,Jawa Timur,Adult,35,2
+805,22,Jakarta,Adult,30,2
+806,50,Sulawesi,Youth,28,4
+807,18,Jawa Timur,Youth,17,2
+808,35,Sumatera,Senior,3,2
+809,49,Jawa Timur,Senior,16,2
+810,64,Jawa Timur,Adult,46,4
+811,66,Jawa Timur,Youth,30,3
+812,28,Sumatera,Adult,29,2
+813,38,Sulawesi,Senior,45,3
+814,43,Kalimantan,Senior,15,2
+815,42,Jawa Timur,Adult,46,2
+816,39,Jawa Barat,Senior,25,1
+817,44,Sumatera,Adult,38,2
+818,66,Jawa Timur,Youth,42,1
+819,30,Sulawesi,Adult,47,4
+820,50,Kalimantan,Youth,38,1
+821,51,Sumatera,Youth,23,4
+822,58,Jawa Tengah,Senior,25,2
+823,52,Kalimantan,Senior,42,2
+824,18,Jawa Barat,Senior,7,2
+825,38,Jawa Timur,Adult,22,1
+826,65,Sulawesi,Adult,17,2
+827,23,Jawa Tengah,Senior,18,1
+828,45,Sulawesi,Adult,41,2
+829,34,Jawa Tengah,Senior,10,2
+830,22,Sumatera,Adult,10,3
+831,48,Jawa Tengah,Youth,7,1
+832,22,Jawa Barat,Youth,38,1
+833,55,Jawa Barat,Senior,27,2
+834,20,Jakarta,Adult,33,4
+835,40,Jawa Barat,Adult,1,3
+836,54,Kalimantan,Youth,44,2
+837,54,Jawa Tengah,Youth,34,2
+838,27,Jawa Barat,Senior,4,1
+839,27,Sumatera,Youth,17,4
+840,36,Sulawesi,Senior,4,2
+841,34,Sulawesi,Youth,43,1
+842,38,Jakarta,Youth,26,2
+843,31,Sulawesi,Adult,4,1
+844,26,Jawa Tengah,Youth,1,4
+845,63,Jakarta,Youth,7,1
+846,18,Jawa Tengah,Senior,30,2
+847,68,Sumatera,Youth,9,1
+848,62,Jakarta,Senior,35,3
+849,30,Jawa Timur,Youth,8,3
+850,21,Kalimantan,Youth,24,2
+851,18,Kalimantan,Senior,19,2
+852,66,Jawa Tengah,Adult,36,3
+853,57,Sulawesi,Senior,43,1
+854,49,Jawa Timur,Senior,27,1
+855,51,Jakarta,Senior,32,1
+856,45,Jawa Timur,Adult,14,4
+857,48,Jawa Timur,Youth,18,2
+858,25,Sulawesi,Senior,28,3
+859,56,Jakarta,Senior,29,2
+860,43,Sumatera,Adult,16,1
+861,51,Sulawesi,Senior,35,1
+862,20,Jawa Timur,Youth,47,1
+863,67,Jawa Timur,Adult,31,2
+864,29,Sumatera,Youth,4,1
+865,18,Jawa Timur,Youth,37,1
+866,61,Jawa Timur,Adult,17,3
+867,22,Jawa Timur,Senior,39,4
+868,47,Kalimantan,Youth,46,1
+869,47,Sulawesi,Youth,26,1
+870,34,Jawa Barat,Youth,39,1
+871,65,Sulawesi,Youth,41,2
+872,64,Sumatera,Adult,4,3
+873,40,Jawa Timur,Adult,30,1
+874,32,Sulawesi,Youth,30,1
+875,54,Kalimantan,Senior,22,3
+876,38,Sumatera,Youth,11,2
+877,31,Jawa Tengah,Senior,2,1
+878,19,Sulawesi,Youth,44,2
+879,28,Jawa Tengah,Senior,12,1
+880,68,Jawa Timur,Youth,30,2
+881,56,Kalimantan,Senior,36,3
+882,55,Kalimantan,Youth,18,3
+883,51,Sulawesi,Youth,26,2
+884,55,Sumatera,Senior,7,4
+885,67,Sumatera,Adult,1,2
+886,51,Kalimantan,Senior,26,3
+887,35,Sumatera,Adult,23,2
+888,47,Kalimantan,Youth,26,3
+889,32,Sulawesi,Senior,45,4
+890,44,Jawa Barat,Senior,6,1
+891,68,Kalimantan,Senior,6,4
+892,51,Jawa Tengah,Adult,44,3
+893,69,Sumatera,Adult,8,3
+894,55,Kalimantan,Youth,24,1
+895,50,Kalimantan,Adult,22,3
+896,41,Sulawesi,Adult,19,3
+897,32,Sumatera,Youth,37,1
+898,47,Jawa Barat,Senior,18,4
+899,59,Sulawesi,Senior,31,1
+900,68,Jawa Barat,Youth,37,1
+901,34,Sulawesi,Senior,30,2
+902,22,Sumatera,Adult,42,2
+903,46,Jakarta,Youth,33,2
+904,21,Sumatera,Youth,10,1
+905,27,Sumatera,Youth,37,4
+906,34,Jawa Barat,Senior,12,1
+907,27,Jawa Barat,Youth,30,1
+908,34,Sumatera,Youth,27,1
+909,37,Sumatera,Youth,39,2
+910,41,Sumatera,Senior,9,4
+911,22,Jawa Barat,Adult,21,2
+912,51,Sumatera,Youth,12,3
+913,23,Sumatera,Adult,29,1
+914,19,Jawa Timur,Senior,33,2
+915,30,Jakarta,Senior,43,2
+916,60,Jawa Tengah,Senior,15,2
+917,60,Jakarta,Senior,2,1
+918,65,Jawa Timur,Adult,39,2
+919,28,Jawa Tengah,Youth,44,2
+920,68,Sulawesi,Senior,18,3
+921,64,Sumatera,Senior,3,2
+922,40,Jawa Timur,Adult,7,1
+923,33,Sulawesi,Adult,43,2
+924,48,Sumatera,Senior,18,1
+925,28,Jawa Barat,Youth,44,3
+926,33,Kalimantan,Youth,38,2
+927,25,Jawa Timur,Senior,37,1
+928,21,Jawa Barat,Adult,33,4
+929,57,Jawa Timur,Senior,44,2
+930,21,Jawa Timur,Senior,31,1
+931,42,Jawa Barat,Adult,11,2
+932,20,Jawa Tengah,Senior,4,1
+933,49,Jakarta,Senior,18,3
+934,20,Sumatera,Senior,4,3
+935,44,Jawa Timur,Adult,34,4
+936,46,Sumatera,Youth,29,2
+937,49,Kalimantan,Youth,24,2
+938,67,Jawa Barat,Adult,22,3
+939,68,Sumatera,Youth,2,1
+940,36,Jawa Barat,Senior,44,2
+941,38,Sumatera,Youth,6,2
+942,22,Jakarta,Senior,42,1
+943,35,Jakarta,Youth,25,2
+944,45,Jakarta,Adult,21,3
+945,59,Jakarta,Youth,16,3
+946,39,Jakarta,Youth,31,1
+947,38,Jakarta,Youth,14,1
+948,23,Jawa Barat,Adult,39,1
+949,18,Jawa Timur,Youth,28,3
+950,22,Sumatera,Adult,32,1
+951,58,Jakarta,Senior,28,3
+952,29,Jawa Barat,Youth,9,1
+953,43,Jawa Barat,Adult,45,2
+954,63,Jawa Barat,Adult,22,2
+955,51,Jawa Timur,Youth,32,3
+956,66,Sumatera,Senior,5,1
+957,31,Jawa Timur,Adult,23,2
+958,43,Jawa Tengah,Youth,5,1
+959,62,Sulawesi,Senior,42,3
+960,44,Jawa Barat,Adult,32,3
+961,26,Jawa Tengah,Adult,10,1
+962,43,Kalimantan,Senior,39,3
+963,64,Jakarta,Senior,15,2
+964,39,Sulawesi,Youth,7,1
+965,64,Jakarta,Youth,29,2
+966,47,Jawa Timur,Adult,47,1
+967,60,Sulawesi,Senior,3,3
+968,65,Sumatera,Senior,19,3
+969,34,Jawa Tengah,Senior,10,1
+970,43,Sumatera,Adult,28,2
+971,53,Jawa Timur,Senior,29,3
+972,18,Jakarta,Senior,15,4
+973,25,Sulawesi,Adult,35,2
+974,66,Sumatera,Youth,6,4
+975,52,Sumatera,Youth,12,2
+976,69,Jakarta,Adult,47,2
+977,32,Sulawesi,Senior,38,3
+978,64,Jawa Tengah,Adult,13,2
+979,39,Jakarta,Youth,29,2
+980,31,Sumatera,Youth,19,2
+981,43,Jawa Tengah,Adult,3,3
+982,45,Jawa Tengah,Adult,8,3
+983,40,Jakarta,Youth,8,2
+984,31,Sumatera,Adult,20,1
+985,41,Jawa Timur,Youth,47,2
+986,19,Sumatera,Adult,4,2
+987,62,Jawa Barat,Adult,21,1
+988,43,Sulawesi,Adult,3,3
+989,31,Kalimantan,Youth,45,2
+990,68,Jawa Timur,Adult,8,1
+991,24,Jawa Tengah,Youth,23,1
+992,20,Jawa Timur,Youth,16,1
+993,64,Sulawesi,Adult,13,4
+994,40,Jawa Tengah,Adult,3,1
+995,63,Sulawesi,Youth,9,1
+996,60,Jawa Tengah,Youth,14,2
+997,64,Jawa Timur,Senior,13,1
+998,62,Jawa Tengah,Youth,7,1
+999,35,Jawa Tengah,Senior,15,1
+1000,55,Jawa Barat,Senior,7,2
+1001,52,Sumatera,Senior,38,2
+1002,68,Sumatera,Adult,34,2
+1003,32,Kalimantan,Adult,41,2
+1004,42,Kalimantan,Youth,22,4
+1005,54,Jawa Barat,Senior,24,2
+1006,45,Kalimantan,Adult,37,1
+1007,27,Sulawesi,Adult,44,1
+1008,56,Jawa Timur,Adult,1,2
+1009,34,Jakarta,Adult,10,3
+1010,56,Sulawesi,Adult,43,1
+1011,39,Jakarta,Senior,16,3
+1012,43,Jakarta,Senior,46,1
+1013,61,Jawa Barat,Senior,8,2
+1014,42,Sulawesi,Senior,25,3
+1015,34,Jawa Barat,Youth,12,1
+1016,30,Jawa Tengah,Senior,25,2
+1017,37,Jakarta,Adult,17,1
+1018,42,Jawa Timur,Senior,26,3
+1019,21,Kalimantan,Youth,46,1
+1020,27,Jawa Timur,Adult,14,3
+1021,20,Kalimantan,Senior,41,1
+1022,58,Jakarta,Senior,36,3
+1023,62,Jakarta,Senior,23,2
+1024,35,Jakarta,Adult,43,3
+1025,64,Jawa Barat,Adult,6,1
+1026,53,Sulawesi,Youth,47,4
+1027,64,Kalimantan,Adult,5,1
+1028,39,Sulawesi,Adult,43,1
+1029,51,Jawa Barat,Senior,25,2
+1030,64,Jawa Barat,Adult,18,1
+1031,25,Sumatera,Senior,13,1
+1032,57,Jawa Timur,Senior,43,4
+1033,66,Jawa Timur,Adult,14,4
+1034,61,Jawa Tengah,Youth,28,2
+1035,36,Jawa Barat,Youth,18,4
+1036,59,Kalimantan,Adult,28,2
+1037,58,Sumatera,Youth,27,1
+1038,54,Sumatera,Senior,32,3
+1039,23,Sulawesi,Senior,47,2
+1040,69,Jawa Timur,Adult,9,4
+1041,43,Jawa Barat,Youth,40,1
+1042,51,Jawa Tengah,Youth,32,2
+1043,62,Jawa Barat,Senior,20,1
+1044,23,Sulawesi,Adult,28,1
+1045,54,Jakarta,Youth,33,1
+1046,50,Jawa Barat,Adult,4,4
+1047,39,Sulawesi,Youth,46,3
+1048,38,Jakarta,Senior,34,3
+1049,23,Jakarta,Senior,3,2
+1050,23,Jawa Tengah,Adult,26,1
+1051,65,Kalimantan,Senior,8,1
+1052,21,Jawa Timur,Youth,6,1
+1053,47,Jawa Barat,Senior,16,2
+1054,28,Jakarta,Adult,24,3
+1055,47,Jawa Barat,Adult,39,2
+1056,48,Kalimantan,Adult,30,1
+1057,41,Jawa Timur,Youth,45,1
+1058,26,Kalimantan,Youth,13,1
+1059,20,Jawa Timur,Youth,5,2
+1060,68,Sumatera,Youth,25,4
+1061,48,Jawa Timur,Youth,20,2
+1062,57,Jawa Tengah,Senior,18,3
+1063,54,Kalimantan,Youth,47,2
+1064,53,Jakarta,Youth,18,2
+1065,41,Sumatera,Senior,2,1
+1066,48,Jawa Tengah,Youth,10,3
+1067,23,Jawa Barat,Adult,45,3
+1068,19,Kalimantan,Youth,47,1
+1069,37,Sulawesi,Youth,12,2
+1070,45,Sulawesi,Adult,47,2
+1071,28,Jakarta,Adult,13,2
+1072,21,Jawa Timur,Adult,47,4
+1073,32,Jakarta,Adult,11,2
+1074,23,Sulawesi,Youth,19,2
+1075,66,Jawa Barat,Adult,35,1
+1076,47,Sumatera,Adult,39,1
+1077,55,Sumatera,Senior,26,1
+1078,68,Kalimantan,Adult,46,1
+1079,19,Sumatera,Adult,14,3
+1080,32,Kalimantan,Senior,45,3
+1081,28,Kalimantan,Senior,44,1
+1082,25,Kalimantan,Youth,24,3
+1083,43,Sulawesi,Senior,41,1
+1084,68,Sulawesi,Youth,1,1
+1085,62,Jawa Timur,Senior,43,1
+1086,61,Jawa Tengah,Senior,22,2
+1087,22,Kalimantan,Youth,23,1
+1088,23,Kalimantan,Senior,19,2
+1089,43,Jawa Tengah,Youth,18,2
+1090,21,Jakarta,Senior,12,4
+1091,36,Kalimantan,Adult,28,1
+1092,37,Jawa Timur,Senior,28,1
+1093,50,Sumatera,Youth,33,1
+1094,37,Sumatera,Senior,19,2
+1095,66,Jawa Barat,Youth,28,1
+1096,29,Jawa Barat,Youth,37,3
+1097,64,Sumatera,Adult,26,2
+1098,18,Sumatera,Adult,35,2
+1099,43,Sulawesi,Youth,34,2
+1100,31,Jawa Timur,Senior,35,1
+1101,55,Jawa Tengah,Youth,40,1
+1102,54,Jawa Barat,Youth,16,1
+1103,28,Sulawesi,Senior,38,2
+1104,53,Sulawesi,Senior,13,1
+1105,30,Jawa Tengah,Senior,23,1
+1106,60,Sulawesi,Senior,22,4
+1107,20,Jawa Timur,Youth,16,1
+1108,50,Sumatera,Youth,28,3
+1109,23,Kalimantan,Adult,35,3
+1110,67,Jawa Tengah,Youth,45,1
+1111,27,Sumatera,Senior,46,1
+1112,22,Sumatera,Adult,8,1
+1113,40,Jakarta,Senior,44,2
+1114,27,Jawa Tengah,Youth,22,2
+1115,61,Sulawesi,Adult,21,3
+1116,19,Kalimantan,Senior,26,4
+1117,30,Jawa Tengah,Adult,40,2
+1118,57,Sulawesi,Adult,21,1
+1119,19,Sumatera,Youth,25,1
+1120,37,Kalimantan,Senior,41,3
+1121,18,Sulawesi,Adult,1,1
+1122,54,Jawa Timur,Adult,6,1
+1123,26,Sulawesi,Senior,23,3
+1124,34,Jakarta,Adult,23,2
+1125,26,Sumatera,Adult,43,4
+1126,28,Sulawesi,Adult,43,2
+1127,32,Jawa Barat,Senior,23,1
+1128,41,Jawa Barat,Senior,32,4
+1129,55,Jakarta,Senior,30,1
+1130,52,Jawa Timur,Senior,13,1
+1131,47,Sumatera,Youth,43,2
+1132,48,Jawa Tengah,Adult,18,1
+1133,66,Jakarta,Senior,23,2
+1134,22,Jawa Timur,Adult,15,1
+1135,61,Jawa Tengah,Adult,33,2
+1136,67,Jawa Barat,Youth,21,2
+1137,31,Jawa Barat,Senior,39,3
+1138,28,Jawa Tengah,Senior,23,3
+1139,26,Jakarta,Adult,27,1
+1140,51,Jawa Barat,Senior,45,2
+1141,29,Sumatera,Adult,44,2
+1142,52,Kalimantan,Adult,18,1
+1143,52,Sulawesi,Youth,24,3
+1144,18,Jawa Tengah,Youth,47,3
+1145,57,Jawa Tengah,Youth,40,1
+1146,39,Jawa Barat,Adult,42,2
+1147,46,Jakarta,Senior,7,1
+1148,25,Sumatera,Youth,20,2
+1149,28,Jakarta,Senior,27,1
+1150,58,Jawa Timur,Youth,6,4
+1151,54,Jawa Timur,Youth,27,3
+1152,31,Kalimantan,Adult,9,2
+1153,47,Jawa Barat,Youth,45,2
+1154,52,Jawa Barat,Youth,31,4
+1155,38,Jawa Barat,Adult,21,2
+1156,54,Kalimantan,Senior,26,1
+1157,22,Jawa Timur,Youth,40,2
+1158,36,Jakarta,Adult,45,3
+1159,31,Kalimantan,Youth,13,2
+1160,43,Kalimantan,Adult,23,2
+1161,21,Jakarta,Senior,20,3
+1162,42,Jawa Barat,Senior,37,3
+1163,62,Sumatera,Adult,28,4
+1164,59,Jakarta,Adult,17,1
+1165,42,Jawa Timur,Adult,28,2
+1166,35,Jawa Tengah,Senior,41,3
+1167,57,Jawa Tengah,Youth,2,3
+1168,25,Sulawesi,Senior,25,2
+1169,56,Sulawesi,Adult,41,1
+1170,57,Kalimantan,Adult,6,3
+1171,31,Jawa Tengah,Senior,11,3
+1172,49,Sumatera,Adult,38,1
+1173,68,Jawa Barat,Senior,6,2
+1174,55,Jawa Timur,Adult,45,1
+1175,50,Sulawesi,Youth,11,1
+1176,40,Sumatera,Youth,14,1
+1177,32,Jawa Timur,Adult,2,2
+1178,50,Jawa Timur,Senior,40,2
+1179,42,Jawa Barat,Youth,3,2
+1180,34,Kalimantan,Senior,35,2
+1181,50,Jawa Tengah,Adult,33,3
+1182,64,Jawa Barat,Senior,24,1
+1183,19,Sumatera,Youth,19,1
+1184,31,Kalimantan,Senior,18,3
+1185,57,Sumatera,Senior,24,1
+1186,57,Kalimantan,Adult,45,4
+1187,68,Sulawesi,Adult,35,3
+1188,56,Sumatera,Adult,1,2
+1189,68,Jawa Barat,Youth,36,4
+1190,23,Kalimantan,Youth,25,1
+1191,23,Kalimantan,Adult,45,1
+1192,20,Jawa Timur,Adult,43,2
+1193,24,Jawa Timur,Youth,34,2
+1194,68,Jakarta,Youth,25,4
+1195,25,Sumatera,Youth,16,1
+1196,59,Jawa Timur,Youth,34,2
+1197,69,Jakarta,Adult,29,2
+1198,32,Sulawesi,Youth,19,2
+1199,64,Sulawesi,Adult,23,1
+1200,46,Jawa Timur,Senior,19,2
+1201,50,Sumatera,Senior,25,3
+1202,69,Kalimantan,Youth,16,1
+1203,47,Jawa Tengah,Senior,9,3
+1204,56,Sumatera,Senior,1,2
+1205,44,Jawa Barat,Senior,42,3
+1206,53,Sulawesi,Youth,19,3
+1207,46,Jawa Timur,Youth,33,1
+1208,55,Jawa Timur,Senior,34,2
+1209,50,Kalimantan,Adult,16,3
+1210,54,Jawa Barat,Senior,44,2
+1211,44,Kalimantan,Youth,40,4
+1212,50,Jawa Barat,Youth,18,2
+1213,21,Jawa Tengah,Youth,34,1
+1214,39,Sulawesi,Senior,25,2
+1215,19,Jawa Timur,Adult,45,4
+1216,27,Jawa Timur,Youth,6,1
+1217,22,Jawa Tengah,Youth,21,3
+1218,27,Jakarta,Senior,6,3
+1219,50,Sulawesi,Adult,32,2
+1220,55,Kalimantan,Senior,41,1
+1221,30,Jawa Tengah,Youth,43,3
+1222,48,Kalimantan,Adult,39,1
+1223,64,Sumatera,Adult,31,3
+1224,53,Jawa Timur,Youth,42,2
+1225,62,Kalimantan,Adult,10,2
+1226,41,Jawa Barat,Adult,30,3
+1227,69,Kalimantan,Senior,18,2
+1228,32,Sumatera,Youth,24,2
+1229,46,Sulawesi,Youth,9,2
+1230,25,Jawa Timur,Youth,31,2
+1231,22,Jawa Tengah,Youth,15,2
+1232,46,Sumatera,Youth,4,3
+1233,64,Jawa Timur,Adult,40,2
+1234,21,Kalimantan,Senior,9,2
+1235,29,Sulawesi,Youth,45,2
+1236,62,Jakarta,Senior,9,1
+1237,19,Sulawesi,Senior,26,1
+1238,44,Jakarta,Adult,4,4
+1239,48,Jawa Barat,Youth,17,3
+1240,68,Sulawesi,Adult,16,2
+1241,68,Jawa Timur,Youth,15,2
+1242,53,Jakarta,Adult,35,1
+1243,53,Jawa Tengah,Senior,5,2
+1244,43,Jawa Timur,Youth,5,2
+1245,60,Jawa Tengah,Senior,20,2
+1246,44,Sulawesi,Senior,15,2
+1247,22,Jawa Tengah,Adult,18,1
+1248,37,Jakarta,Youth,47,1
+1249,28,Jawa Timur,Senior,2,4
+1250,27,Kalimantan,Adult,29,2
+1251,57,Sumatera,Youth,13,2
+1252,55,Jakarta,Youth,4,1
+1253,23,Jakarta,Senior,42,1
+1254,25,Kalimantan,Youth,45,3
+1255,40,Jawa Timur,Senior,10,2
+1256,64,Jawa Timur,Youth,31,2
+1257,43,Sulawesi,Adult,41,1
+1258,63,Jawa Tengah,Senior,8,3
+1259,60,Sulawesi,Senior,3,1
+1260,29,Kalimantan,Youth,46,1
+1261,43,Sulawesi,Youth,9,2
+1262,30,Kalimantan,Senior,30,1
+1263,57,Jawa Timur,Youth,11,1
+1264,35,Jawa Tengah,Adult,35,2
+1265,42,Sulawesi,Youth,37,2
+1266,50,Jakarta,Adult,42,3
+1267,64,Jawa Barat,Adult,13,2
+1268,57,Sumatera,Adult,36,1
+1269,60,Jakarta,Adult,13,1
+1270,29,Jawa Timur,Adult,12,4
+1271,61,Sumatera,Youth,37,2
+1272,53,Jawa Barat,Adult,10,3
+1273,65,Jawa Barat,Youth,9,1
+1274,21,Jawa Tengah,Adult,7,2
+1275,22,Sumatera,Senior,2,1
+1276,54,Jawa Tengah,Adult,23,2
+1277,25,Jakarta,Senior,39,4
+1278,59,Kalimantan,Adult,40,4
+1279,66,Kalimantan,Adult,39,2
+1280,45,Kalimantan,Adult,21,2
+1281,48,Sumatera,Senior,23,4
+1282,26,Kalimantan,Senior,29,2
+1283,68,Jakarta,Adult,14,1
+1284,46,Jawa Tengah,Youth,26,2
+1285,31,Sumatera,Adult,5,1
+1286,57,Jawa Tengah,Senior,31,2
+1287,58,Sumatera,Adult,25,2
+1288,39,Jawa Tengah,Senior,31,2
+1289,28,Jawa Barat,Senior,20,2
+1290,40,Jawa Tengah,Senior,44,1
+1291,18,Kalimantan,Adult,17,2
+1292,63,Jawa Barat,Senior,45,3
+1293,54,Jawa Tengah,Senior,2,2
+1294,38,Sumatera,Adult,25,1
+1295,43,Sumatera,Senior,13,4
+1296,63,Sumatera,Adult,39,4
+1297,53,Jawa Timur,Senior,28,1
+1298,40,Jakarta,Youth,42,1
+1299,18,Sumatera,Youth,6,3
+1300,68,Jawa Barat,Senior,3,3
+1301,57,Sumatera,Youth,35,4
+1302,32,Jawa Timur,Adult,18,3
+1303,38,Kalimantan,Youth,11,2
+1304,64,Jawa Barat,Senior,20,2
+1305,26,Jawa Timur,Senior,5,1
+1306,26,Kalimantan,Adult,19,1
+1307,27,Sulawesi,Senior,22,2
+1308,69,Sulawesi,Adult,19,2
+1309,43,Jawa Barat,Youth,47,2
+1310,58,Jawa Tengah,Youth,16,3
+1311,52,Jakarta,Adult,24,1
+1312,69,Jakarta,Adult,41,2
+1313,42,Jawa Timur,Senior,4,1
+1314,43,Kalimantan,Youth,15,2
+1315,28,Jakarta,Adult,25,3
+1316,55,Kalimantan,Youth,44,2
+1317,19,Kalimantan,Adult,35,4
+1318,24,Jawa Timur,Youth,14,1
+1319,35,Jawa Timur,Senior,19,2
+1320,44,Jawa Timur,Youth,38,1
+1321,51,Jakarta,Youth,36,2
+1322,44,Sulawesi,Youth,7,3
+1323,34,Jawa Timur,Youth,30,2
+1324,60,Jakarta,Youth,19,3
+1325,61,Jawa Timur,Senior,25,1
+1326,68,Sumatera,Adult,16,3
+1327,41,Kalimantan,Youth,47,1
+1328,42,Jawa Timur,Senior,40,3
+1329,24,Jawa Barat,Youth,8,1
+1330,69,Kalimantan,Youth,18,1
+1331,23,Kalimantan,Adult,28,2
+1332,41,Jawa Timur,Youth,16,4
+1333,50,Sulawesi,Senior,19,1
+1334,66,Jawa Tengah,Senior,42,2
+1335,46,Sulawesi,Adult,17,3
+1336,60,Jawa Timur,Youth,45,2
+1337,39,Kalimantan,Senior,13,1
+1338,43,Jawa Barat,Youth,7,2
+1339,45,Kalimantan,Youth,27,2
+1340,67,Sulawesi,Youth,10,4
+1341,38,Jawa Barat,Adult,34,3
+1342,66,Jakarta,Youth,36,2
+1343,24,Sumatera,Senior,25,4
+1344,34,Kalimantan,Youth,6,2
+1345,37,Jawa Timur,Senior,24,1
+1346,58,Jakarta,Youth,18,1
+1347,66,Sumatera,Senior,23,2
+1348,37,Jawa Timur,Senior,6,1
+1349,39,Jawa Tengah,Youth,29,4
+1350,45,Jawa Timur,Youth,25,3
+1351,57,Jawa Barat,Senior,17,1
+1352,66,Jawa Barat,Adult,46,2
+1353,24,Jawa Tengah,Youth,24,3
+1354,18,Jakarta,Adult,11,4
+1355,49,Sumatera,Youth,26,3
+1356,30,Jawa Timur,Youth,34,2
+1357,47,Jawa Barat,Youth,28,3
+1358,40,Jakarta,Youth,3,2
+1359,68,Jawa Tengah,Adult,11,2
+1360,36,Sulawesi,Youth,38,1
+1361,49,Kalimantan,Senior,14,1
+1362,47,Sulawesi,Senior,26,2
+1363,46,Sulawesi,Adult,21,1
+1364,66,Jawa Barat,Youth,39,1
+1365,62,Jawa Tengah,Senior,30,3
+1366,46,Jawa Timur,Adult,8,1
+1367,47,Sulawesi,Youth,20,2
+1368,33,Sulawesi,Senior,32,2
+1369,57,Sumatera,Senior,22,4
+1370,36,Jawa Barat,Adult,7,2
+1371,35,Jawa Barat,Youth,9,1
+1372,18,Jawa Timur,Youth,45,2
+1373,31,Kalimantan,Senior,1,3
+1374,68,Jakarta,Senior,29,4
+1375,64,Sumatera,Senior,8,2
+1376,67,Jawa Barat,Youth,4,1
+1377,19,Sumatera,Adult,35,4
+1378,45,Jawa Barat,Adult,3,1
+1379,66,Sumatera,Youth,45,2
+1380,67,Jawa Tengah,Adult,40,2
+1381,47,Sulawesi,Senior,7,1
+1382,55,Jawa Barat,Adult,27,1
+1383,68,Sumatera,Adult,1,1
+1384,21,Jakarta,Adult,27,2
+1385,18,Jawa Tengah,Senior,16,4
+1386,25,Jawa Tengah,Youth,38,1
+1387,46,Jakarta,Senior,7,3
+1388,56,Sumatera,Youth,44,1
+1389,20,Jawa Timur,Youth,23,2
+1390,49,Jakarta,Youth,41,1
+1391,27,Sumatera,Adult,11,4
+1392,27,Jakarta,Adult,42,3
+1393,36,Jakarta,Youth,33,2
+1394,63,Jawa Barat,Youth,36,3
+1395,51,Sumatera,Adult,37,2
+1396,50,Jawa Timur,Senior,41,4
+1397,40,Sulawesi,Youth,17,3
+1398,45,Jawa Barat,Senior,35,4
+1399,49,Jakarta,Adult,5,2
+1400,67,Sulawesi,Youth,32,1
+1401,24,Kalimantan,Senior,3,2
+1402,46,Sulawesi,Senior,47,1
+1403,25,Jakarta,Senior,35,2
+1404,18,Jakarta,Adult,14,2
+1405,20,Sumatera,Adult,31,2
+1406,41,Sumatera,Senior,31,1
+1407,40,Jawa Barat,Senior,17,1
+1408,25,Jawa Timur,Adult,24,2
+1409,64,Jawa Barat,Senior,23,4
+1410,54,Jawa Tengah,Senior,18,2
+1411,20,Jakarta,Adult,14,2
+1412,68,Sulawesi,Senior,15,3
+1413,50,Kalimantan,Senior,15,2
+1414,45,Jakarta,Senior,6,1
+1415,64,Jakarta,Adult,27,2
+1416,25,Jawa Barat,Senior,15,1
+1417,51,Kalimantan,Adult,36,4
+1418,52,Kalimantan,Adult,8,1
+1419,49,Kalimantan,Youth,15,2
+1420,41,Jawa Barat,Youth,3,1
+1421,31,Jakarta,Senior,47,1
+1422,49,Jawa Barat,Adult,13,3
+1423,63,Sumatera,Youth,41,1
+1424,60,Sumatera,Senior,34,1
+1425,33,Jawa Barat,Youth,24,2
+1426,21,Kalimantan,Youth,40,1
+1427,69,Jakarta,Adult,32,1
+1428,54,Jawa Barat,Adult,32,3
+1429,38,Jawa Barat,Youth,30,3
+1430,31,Jawa Barat,Youth,13,4
+1431,48,Jawa Tengah,Adult,1,3
+1432,65,Sumatera,Senior,34,2
+1433,35,Sulawesi,Adult,15,1
+1434,24,Kalimantan,Youth,44,3
+1435,27,Jawa Timur,Senior,14,3
+1436,24,Sulawesi,Youth,29,3
+1437,50,Kalimantan,Senior,34,2
+1438,40,Jawa Timur,Youth,18,1
+1439,38,Jawa Tengah,Senior,7,3
+1440,36,Jawa Barat,Senior,29,3
+1441,65,Jawa Tengah,Youth,31,4
+1442,36,Jawa Tengah,Senior,25,1
+1443,53,Sulawesi,Adult,38,1
+1444,46,Jakarta,Youth,14,1
+1445,35,Sulawesi,Adult,8,3
+1446,19,Sumatera,Youth,27,1
+1447,18,Jawa Timur,Senior,2,1
+1448,64,Jawa Barat,Senior,17,4
+1449,22,Sulawesi,Senior,37,1
+1450,37,Jawa Timur,Youth,14,3
+1451,28,Kalimantan,Adult,25,2
+1452,59,Jawa Timur,Adult,30,3
+1453,19,Kalimantan,Youth,29,2
+1454,20,Sulawesi,Youth,20,4
+1455,40,Sumatera,Adult,21,4
+1456,29,Sulawesi,Adult,22,1
+1457,37,Kalimantan,Adult,35,1
+1458,22,Jawa Timur,Adult,37,1
+1459,54,Jawa Timur,Youth,16,2
+1460,55,Kalimantan,Youth,43,3
+1461,47,Jawa Tengah,Senior,17,2
+1462,26,Sumatera,Adult,16,2
+1463,51,Jakarta,Senior,2,1
+1464,61,Jawa Barat,Youth,4,3
+1465,52,Jawa Timur,Youth,21,4
+1466,69,Jawa Barat,Senior,39,1
+1467,39,Jakarta,Adult,34,2
+1468,61,Sulawesi,Adult,30,1
+1469,41,Jawa Barat,Adult,6,2
+1470,34,Jakarta,Adult,17,2
+1471,27,Kalimantan,Senior,39,1
+1472,47,Jawa Tengah,Senior,25,2
+1473,63,Jawa Timur,Youth,5,1
+1474,40,Jakarta,Adult,5,2
+1475,49,Jawa Barat,Adult,20,2
+1476,34,Jawa Timur,Adult,16,1
+1477,67,Jawa Tengah,Senior,41,3
+1478,68,Kalimantan,Adult,37,3
+1479,34,Sulawesi,Senior,40,2
+1480,31,Jawa Timur,Adult,9,1
+1481,26,Sulawesi,Adult,5,3
+1482,57,Jakarta,Youth,42,4
+1483,19,Jawa Tengah,Adult,2,1
+1484,62,Jawa Barat,Adult,9,1
+1485,42,Jawa Tengah,Youth,43,1
+1486,56,Jawa Tengah,Senior,36,2
+1487,26,Sumatera,Senior,22,1
+1488,39,Jawa Tengah,Adult,22,2
+1489,60,Jawa Tengah,Senior,22,2
+1490,63,Jawa Timur,Adult,34,2
+1491,21,Jawa Barat,Youth,29,2
+1492,43,Jawa Timur,Youth,38,2
+1493,46,Jawa Timur,Adult,46,2
+1494,62,Jakarta,Youth,33,1
+1495,51,Jawa Timur,Youth,18,1
+1496,40,Sumatera,Adult,7,3
+1497,54,Sumatera,Adult,1,1
+1498,28,Sulawesi,Youth,33,3
+1499,23,Jakarta,Senior,1,4
+1500,35,Sulawesi,Senior,24,1
+1501,38,Sulawesi,Adult,4,2
+1502,59,Kalimantan,Adult,4,2
+1503,53,Jawa Barat,Senior,18,3
+1504,58,Jawa Barat,Youth,27,4
+1505,55,Jawa Timur,Senior,43,3
+1506,51,Jawa Timur,Senior,32,1
+1507,34,Kalimantan,Senior,33,2
+1508,54,Jawa Timur,Senior,28,2
+1509,42,Jawa Barat,Adult,42,2
+1510,55,Sulawesi,Adult,41,1
+1511,29,Jawa Tengah,Youth,36,1
+1512,40,Sumatera,Youth,6,3
+1513,59,Jawa Tengah,Youth,16,2
+1514,39,Jawa Tengah,Youth,34,1
+1515,38,Jawa Barat,Senior,23,2
+1516,44,Jawa Tengah,Adult,42,3
+1517,48,Kalimantan,Adult,24,3
+1518,23,Jakarta,Youth,13,1
+1519,44,Jawa Timur,Youth,18,1
+1520,57,Jakarta,Senior,13,1
+1521,51,Sulawesi,Senior,37,4
+1522,29,Sumatera,Youth,43,2
+1523,62,Jawa Timur,Adult,39,2
+1524,24,Jawa Tengah,Adult,42,2
+1525,27,Sumatera,Adult,17,2
+1526,62,Jawa Timur,Youth,15,3
+1527,34,Kalimantan,Adult,18,2
+1528,43,Kalimantan,Senior,23,1
+1529,38,Kalimantan,Senior,30,1
+1530,45,Kalimantan,Youth,34,2
+1531,63,Jawa Tengah,Senior,4,4
+1532,19,Jakarta,Youth,3,1
+1533,60,Jawa Timur,Adult,7,3
+1534,18,Jawa Tengah,Adult,18,3
+1535,68,Kalimantan,Adult,42,1
+1536,53,Sulawesi,Senior,7,1
+1537,68,Jakarta,Youth,40,1
+1538,43,Sulawesi,Adult,6,3
+1539,46,Sumatera,Youth,22,1
+1540,38,Sulawesi,Adult,1,2
+1541,28,Sumatera,Senior,4,2
+1542,57,Sumatera,Senior,46,3
+1543,28,Kalimantan,Youth,43,1
+1544,53,Sumatera,Senior,29,2
+1545,66,Jawa Barat,Senior,21,2
+1546,56,Jawa Timur,Youth,26,2
+1547,57,Jawa Timur,Adult,14,3
+1548,52,Kalimantan,Senior,9,1
+1549,51,Jawa Barat,Youth,47,3
+1550,64,Sulawesi,Senior,12,2
+1551,41,Jawa Tengah,Senior,42,2
+1552,39,Sulawesi,Senior,6,2
+1553,22,Jawa Tengah,Senior,20,2
+1554,50,Sumatera,Youth,24,1
+1555,53,Jakarta,Youth,27,2
+1556,64,Jawa Tengah,Youth,38,2
+1557,37,Jakarta,Senior,8,2
+1558,36,Jawa Timur,Senior,1,1
+1559,52,Jakarta,Senior,24,4
+1560,69,Jawa Timur,Youth,47,2
+1561,60,Jawa Barat,Senior,7,1
+1562,34,Jawa Barat,Adult,19,2
+1563,62,Kalimantan,Senior,22,3
+1564,60,Kalimantan,Adult,35,3
+1565,51,Sumatera,Senior,30,2
+1566,26,Jawa Tengah,Youth,29,3
+1567,43,Sumatera,Senior,22,1
+1568,19,Jawa Timur,Adult,11,2
+1569,26,Sumatera,Adult,20,3
+1570,26,Jakarta,Senior,29,3
+1571,57,Jawa Timur,Adult,41,2
+1572,34,Kalimantan,Adult,42,3
+1573,18,Jawa Barat,Youth,34,1
+1574,42,Kalimantan,Senior,1,3
+1575,60,Jawa Tengah,Senior,31,1
+1576,57,Jawa Timur,Senior,30,1
+1577,59,Jawa Timur,Adult,18,1
+1578,42,Jakarta,Senior,17,2
+1579,56,Jawa Tengah,Senior,38,1
+1580,52,Jawa Barat,Youth,14,1
+1581,20,Sulawesi,Youth,23,1
+1582,67,Jawa Timur,Youth,25,1
+1583,54,Jawa Timur,Adult,15,2
+1584,61,Jakarta,Senior,46,2
+1585,61,Sumatera,Youth,22,1
+1586,68,Jawa Barat,Youth,3,3
+1587,47,Kalimantan,Youth,19,3
+1588,55,Jawa Tengah,Senior,44,3
+1589,51,Jawa Timur,Senior,34,1
+1590,29,Jawa Timur,Senior,35,3
+1591,36,Kalimantan,Adult,1,1
+1592,54,Jawa Barat,Adult,21,1
+1593,61,Sumatera,Youth,29,1
+1594,66,Jawa Timur,Senior,6,3
+1595,34,Jawa Barat,Youth,37,1
+1596,27,Kalimantan,Senior,1,1
+1597,66,Jakarta,Senior,1,1
+1598,64,Sumatera,Senior,27,3
+1599,29,Jawa Tengah,Adult,21,2
+1600,33,Jawa Timur,Adult,16,1
+1601,41,Jawa Barat,Senior,44,2
+1602,36,Jakarta,Youth,40,2
+1603,25,Jawa Tengah,Senior,26,2
+1604,48,Sulawesi,Senior,16,1
+1605,38,Jawa Barat,Youth,28,3
+1606,34,Jawa Barat,Senior,1,1
+1607,40,Jawa Tengah,Youth,36,2
+1608,54,Jakarta,Adult,10,1
+1609,33,Sulawesi,Adult,43,2
+1610,23,Kalimantan,Youth,17,2
+1611,25,Jakarta,Adult,23,2
+1612,42,Sumatera,Adult,7,1
+1613,35,Jawa Timur,Youth,44,3
+1614,42,Jawa Tengah,Adult,7,1
+1615,29,Kalimantan,Senior,44,2
+1616,32,Sulawesi,Senior,15,3
+1617,43,Jawa Tengah,Youth,34,2
+1618,58,Jawa Tengah,Adult,46,3
+1619,62,Jakarta,Senior,45,2
+1620,43,Jawa Timur,Senior,4,2
+1621,64,Sumatera,Adult,14,3
+1622,49,Jawa Barat,Adult,14,1
+1623,27,Jawa Barat,Senior,16,2
+1624,33,Jawa Tengah,Senior,7,3
+1625,24,Jawa Timur,Youth,32,2
+1626,34,Sulawesi,Youth,19,1
+1627,40,Sulawesi,Senior,2,2
+1628,43,Kalimantan,Youth,10,3
+1629,38,Jakarta,Senior,17,4
+1630,39,Jawa Timur,Senior,37,2
+1631,24,Jawa Timur,Youth,12,2
+1632,31,Jakarta,Youth,6,4
+1633,32,Sulawesi,Adult,22,1
+1634,24,Sulawesi,Adult,32,1
+1635,26,Sulawesi,Adult,41,3
+1636,68,Jawa Tengah,Senior,20,3
+1637,65,Jawa Timur,Youth,1,3
+1638,25,Jawa Barat,Senior,47,2
+1639,67,Jakarta,Youth,6,1
+1640,40,Sulawesi,Senior,19,2
+1641,46,Kalimantan,Adult,18,1
+1642,35,Sulawesi,Adult,6,1
+1643,48,Sulawesi,Adult,45,3
+1644,47,Sumatera,Senior,33,1
+1645,69,Jawa Tengah,Youth,23,3
+1646,56,Jakarta,Youth,23,2
+1647,52,Sumatera,Adult,26,2
+1648,35,Sumatera,Adult,13,1
+1649,59,Kalimantan,Adult,7,1
+1650,56,Jawa Timur,Adult,15,1
+1651,34,Kalimantan,Youth,44,4
+1652,31,Jawa Timur,Senior,27,3
+1653,48,Jawa Timur,Senior,26,2
+1654,41,Jakarta,Senior,33,1
+1655,52,Sulawesi,Senior,15,4
+1656,61,Jakarta,Adult,36,1
+1657,62,Jawa Tengah,Adult,45,1
+1658,51,Jawa Timur,Adult,27,2
+1659,20,Sumatera,Senior,5,4
+1660,54,Sulawesi,Adult,2,1
+1661,60,Jawa Barat,Adult,33,1
+1662,57,Jawa Tengah,Youth,16,4
+1663,43,Jakarta,Youth,23,1
+1664,40,Kalimantan,Adult,38,1
+1665,61,Jawa Tengah,Youth,16,2
+1666,56,Jawa Tengah,Youth,14,3
+1667,32,Sulawesi,Adult,29,2
+1668,66,Jawa Tengah,Adult,26,4
+1669,21,Jawa Tengah,Adult,35,2
+1670,46,Jawa Barat,Adult,15,1
+1671,39,Kalimantan,Senior,3,4
+1672,42,Kalimantan,Senior,23,2
+1673,30,Kalimantan,Adult,29,1
+1674,35,Jawa Timur,Youth,34,2
+1675,50,Sumatera,Adult,33,1
+1676,33,Kalimantan,Adult,41,1
+1677,62,Jawa Tengah,Youth,41,1
+1678,59,Jawa Tengah,Senior,23,2
+1679,61,Kalimantan,Adult,7,3
+1680,19,Sulawesi,Adult,3,2
+1681,52,Kalimantan,Senior,32,4
+1682,59,Jawa Tengah,Senior,31,1
+1683,51,Jawa Timur,Youth,18,1
+1684,47,Jakarta,Senior,43,1
+1685,30,Jakarta,Senior,7,1
+1686,30,Kalimantan,Senior,41,1
+1687,35,Jawa Barat,Youth,1,3
+1688,49,Kalimantan,Senior,14,4
+1689,49,Sulawesi,Senior,32,4
+1690,52,Kalimantan,Youth,6,1
+1691,56,Jakarta,Senior,39,3
+1692,63,Jawa Tengah,Senior,10,1
+1693,69,Kalimantan,Youth,7,1
+1694,46,Jawa Tengah,Adult,26,3
+1695,66,Jawa Tengah,Youth,34,2
+1696,46,Jawa Barat,Senior,30,1
+1697,61,Jawa Tengah,Senior,36,2
+1698,33,Jakarta,Senior,21,1
+1699,61,Jawa Timur,Youth,17,3
+1700,64,Jawa Timur,Senior,33,2
+1701,27,Sumatera,Senior,10,4
+1702,47,Sulawesi,Youth,47,1
+1703,42,Kalimantan,Adult,42,2
+1704,56,Sulawesi,Adult,12,2
+1705,37,Jakarta,Senior,16,2
+1706,22,Jawa Tengah,Youth,41,1
+1707,18,Jawa Timur,Senior,32,3
+1708,47,Sulawesi,Youth,15,3
+1709,66,Jakarta,Youth,27,4
+1710,20,Jawa Timur,Adult,28,3
+1711,62,Jawa Tengah,Adult,17,3
+1712,31,Sulawesi,Youth,46,2
+1713,47,Jawa Timur,Senior,2,3
+1714,67,Kalimantan,Adult,36,1
+1715,21,Kalimantan,Senior,7,2
+1716,35,Sumatera,Adult,13,1
+1717,54,Sumatera,Adult,15,2
+1718,42,Jawa Timur,Senior,25,1
+1719,65,Jakarta,Adult,23,4
+1720,18,Kalimantan,Adult,22,1
+1721,63,Jakarta,Senior,26,1
+1722,32,Jakarta,Adult,33,2
+1723,26,Jawa Timur,Adult,11,1
+1724,32,Jakarta,Adult,10,1
+1725,66,Kalimantan,Senior,25,1
+1726,41,Jawa Tengah,Youth,37,2
+1727,21,Sumatera,Senior,43,2
+1728,29,Jawa Tengah,Youth,38,3
+1729,54,Jakarta,Adult,41,3
+1730,54,Jawa Tengah,Youth,45,2
+1731,60,Kalimantan,Senior,24,1
+1732,23,Kalimantan,Senior,40,1
+1733,56,Jakarta,Adult,46,3
+1734,63,Jawa Timur,Youth,33,1
+1735,41,Jawa Tengah,Adult,17,1
+1736,28,Jawa Timur,Adult,24,3
+1737,30,Jawa Timur,Senior,37,2
+1738,51,Jawa Barat,Youth,2,1
+1739,42,Jakarta,Youth,32,1
+1740,24,Sumatera,Youth,24,4
+1741,69,Kalimantan,Youth,9,3
+1742,21,Kalimantan,Adult,4,3
+1743,25,Jakarta,Adult,17,2
+1744,37,Sulawesi,Senior,17,2
+1745,46,Sulawesi,Adult,30,4
+1746,68,Sulawesi,Adult,40,4
+1747,62,Sumatera,Senior,11,1
+1748,63,Kalimantan,Senior,21,3
+1749,27,Jakarta,Senior,21,1
+1750,60,Kalimantan,Adult,18,1
+1751,51,Jawa Timur,Adult,29,2
+1752,43,Jawa Tengah,Senior,24,2
+1753,58,Jawa Tengah,Senior,10,4
+1754,66,Kalimantan,Senior,45,1
+1755,20,Jawa Barat,Adult,17,2
+1756,23,Sumatera,Adult,18,4
+1757,22,Sulawesi,Youth,42,4
+1758,22,Sumatera,Adult,20,1
+1759,64,Sumatera,Adult,37,2
+1760,40,Jawa Timur,Adult,45,2
+1761,66,Sumatera,Senior,18,1
+1762,26,Jawa Tengah,Adult,17,4
+1763,52,Jawa Timur,Senior,9,4
+1764,37,Jakarta,Youth,14,1
+1765,66,Sumatera,Youth,29,1
+1766,59,Sumatera,Senior,31,1
+1767,52,Jakarta,Senior,4,4
+1768,67,Sumatera,Senior,18,1
+1769,35,Jakarta,Adult,20,2
+1770,34,Jawa Timur,Youth,47,2
+1771,41,Jawa Tengah,Senior,43,2
+1772,20,Jakarta,Adult,44,1
+1773,49,Jawa Barat,Youth,9,1
+1774,52,Jakarta,Adult,13,4
+1775,55,Sumatera,Youth,15,4
+1776,30,Sulawesi,Adult,27,3
+1777,64,Sulawesi,Youth,15,1
+1778,42,Jawa Timur,Youth,28,1
+1779,26,Kalimantan,Adult,37,2
+1780,21,Jawa Timur,Senior,19,1
+1781,31,Kalimantan,Youth,26,4
+1782,54,Sulawesi,Senior,26,2
+1783,51,Sulawesi,Adult,25,1
+1784,28,Jakarta,Senior,26,4
+1785,58,Jawa Tengah,Senior,26,4
+1786,20,Jawa Barat,Senior,46,1
+1787,45,Jawa Timur,Senior,28,2
+1788,46,Sumatera,Senior,18,1
+1789,26,Kalimantan,Youth,32,2
+1790,20,Sumatera,Youth,3,1
+1791,42,Jawa Tengah,Youth,2,2
+1792,51,Kalimantan,Adult,33,4
+1793,29,Jawa Timur,Senior,42,2
+1794,59,Jakarta,Youth,19,1
+1795,26,Sumatera,Adult,17,2
+1796,32,Jawa Tengah,Youth,44,1
+1797,57,Jawa Timur,Youth,33,3
+1798,42,Sulawesi,Senior,12,2
+1799,22,Sulawesi,Adult,3,1
+1800,28,Jawa Timur,Senior,43,1
+1801,51,Jawa Timur,Senior,26,3
+1802,41,Jawa Timur,Youth,35,1
+1803,32,Kalimantan,Senior,8,3
+1804,55,Jawa Timur,Adult,36,1
+1805,25,Sumatera,Senior,7,1
+1806,22,Jawa Tengah,Senior,46,2
+1807,65,Kalimantan,Senior,46,4
+1808,43,Jawa Timur,Youth,36,4
+1809,35,Jawa Barat,Adult,16,1
+1810,23,Jawa Barat,Youth,24,2
+1811,54,Jawa Tengah,Youth,1,1
+1812,65,Sulawesi,Youth,25,2
+1813,30,Jakarta,Youth,10,2
+1814,45,Jakarta,Youth,16,4
+1815,22,Sulawesi,Adult,16,4
+1816,30,Kalimantan,Senior,8,2
+1817,34,Kalimantan,Youth,29,2
+1818,67,Kalimantan,Youth,39,3
+1819,57,Jakarta,Adult,28,3
+1820,62,Jawa Barat,Adult,6,1
+1821,49,Jakarta,Senior,16,1
+1822,46,Sumatera,Adult,20,2
+1823,68,Jawa Timur,Senior,16,1
+1824,20,Kalimantan,Youth,7,1
+1825,57,Jawa Barat,Youth,41,1
+1826,51,Jawa Tengah,Senior,14,2
+1827,57,Jawa Tengah,Adult,43,1
+1828,44,Jawa Timur,Senior,26,1
+1829,30,Jawa Barat,Adult,26,1
+1830,62,Jakarta,Youth,14,3
+1831,50,Jakarta,Adult,7,3
+1832,23,Sumatera,Senior,33,2
+1833,41,Sumatera,Senior,26,2
+1834,36,Jakarta,Youth,45,4
+1835,33,Jawa Tengah,Adult,20,1
+1836,57,Kalimantan,Adult,3,1
+1837,45,Jawa Tengah,Adult,4,1
+1838,50,Sumatera,Youth,26,1
+1839,65,Jawa Timur,Adult,11,2
+1840,58,Jakarta,Senior,2,4
+1841,30,Sumatera,Adult,14,2
+1842,60,Sumatera,Youth,44,2
+1843,62,Kalimantan,Adult,30,4
+1844,42,Jakarta,Adult,12,1
+1845,59,Kalimantan,Senior,26,1
+1846,53,Jakarta,Adult,44,2
+1847,44,Kalimantan,Senior,33,2
+1848,55,Jawa Tengah,Senior,13,1
+1849,24,Jawa Timur,Youth,14,2
+1850,22,Jawa Timur,Senior,24,2
+1851,60,Jakarta,Senior,34,2
+1852,62,Jawa Barat,Youth,44,2
+1853,68,Sulawesi,Senior,26,1
+1854,48,Sumatera,Youth,21,1
+1855,40,Sumatera,Adult,28,2
+1856,59,Jakarta,Youth,36,1
+1857,27,Kalimantan,Senior,40,4
+1858,49,Jawa Barat,Youth,2,2
+1859,60,Jawa Tengah,Senior,42,1
+1860,47,Kalimantan,Adult,9,3
+1861,56,Kalimantan,Youth,23,2
+1862,48,Jakarta,Adult,15,1
+1863,35,Jakarta,Senior,13,3
+1864,53,Sumatera,Senior,23,3
+1865,19,Jakarta,Adult,17,2
+1866,31,Jakarta,Youth,2,1
+1867,30,Jakarta,Youth,20,2
+1868,46,Sumatera,Senior,20,3
+1869,29,Jawa Tengah,Adult,46,1
+1870,56,Jawa Tengah,Adult,3,1
+1871,19,Sulawesi,Youth,12,3
+1872,49,Sulawesi,Youth,40,1
+1873,30,Jakarta,Youth,2,3
+1874,63,Sulawesi,Adult,36,2
+1875,44,Sumatera,Youth,14,2
+1876,66,Jawa Tengah,Youth,16,1
+1877,58,Kalimantan,Senior,19,3
+1878,34,Jawa Tengah,Youth,34,2
+1879,57,Jawa Tengah,Youth,44,2
+1880,48,Sumatera,Adult,46,2
+1881,51,Sulawesi,Adult,6,3
+1882,41,Kalimantan,Senior,13,4
+1883,62,Sumatera,Youth,36,2
+1884,52,Jakarta,Senior,22,2
+1885,65,Jawa Timur,Adult,18,4
+1886,23,Jawa Tengah,Senior,12,2
+1887,36,Jawa Timur,Adult,30,1
+1888,47,Sumatera,Senior,40,1
+1889,24,Sumatera,Senior,7,3
+1890,27,Sumatera,Youth,32,2
+1891,58,Jawa Timur,Senior,19,2
+1892,49,Sumatera,Youth,6,2
+1893,51,Jakarta,Youth,20,1
+1894,45,Sumatera,Youth,27,2
+1895,32,Jawa Barat,Youth,43,1
+1896,47,Sulawesi,Senior,37,2
+1897,54,Jawa Timur,Adult,7,2
+1898,46,Jawa Barat,Adult,5,2
+1899,39,Sumatera,Adult,11,3
+1900,21,Jakarta,Senior,15,3
+1901,37,Jawa Tengah,Youth,3,3
+1902,49,Kalimantan,Adult,5,1
+1903,53,Sulawesi,Senior,23,1
+1904,67,Kalimantan,Youth,37,2
+1905,21,Sumatera,Adult,9,4
+1906,44,Sulawesi,Youth,15,3
+1907,34,Sulawesi,Adult,3,3
+1908,29,Jakarta,Adult,29,1
+1909,39,Sulawesi,Adult,6,2
+1910,34,Jawa Timur,Youth,17,2
+1911,27,Jawa Barat,Senior,26,1
+1912,18,Jawa Barat,Youth,21,1
+1913,39,Jawa Barat,Adult,8,4
+1914,43,Jawa Timur,Youth,21,1
+1915,35,Kalimantan,Senior,11,1
+1916,67,Jakarta,Youth,38,1
+1917,31,Sulawesi,Senior,8,4
+1918,64,Jawa Timur,Senior,42,2
+1919,46,Jawa Barat,Youth,24,2
+1920,29,Sumatera,Adult,35,4
+1921,53,Jawa Tengah,Senior,14,1
+1922,52,Sulawesi,Youth,14,2
+1923,69,Jawa Timur,Senior,10,1
+1924,29,Jawa Timur,Adult,12,1
+1925,24,Jakarta,Youth,38,3
+1926,46,Jakarta,Youth,44,3
+1927,28,Jawa Timur,Youth,46,2
+1928,50,Jawa Barat,Adult,34,2
+1929,23,Jawa Tengah,Senior,41,2
+1930,64,Sulawesi,Youth,10,1
+1931,32,Jakarta,Senior,17,1
+1932,49,Sulawesi,Senior,17,1
+1933,68,Jawa Barat,Adult,3,1
+1934,28,Sulawesi,Youth,31,3
+1935,40,Sumatera,Senior,1,1
+1936,43,Jakarta,Youth,12,1
+1937,51,Jawa Barat,Youth,39,2
+1938,63,Jawa Barat,Adult,4,3
+1939,51,Jawa Tengah,Youth,42,1
+1940,46,Jawa Tengah,Youth,13,1
+1941,21,Sumatera,Senior,34,2
+1942,34,Jawa Barat,Adult,42,3
+1943,52,Kalimantan,Youth,21,2
+1944,30,Jawa Barat,Senior,22,3
+1945,58,Jawa Tengah,Adult,4,4
+1946,56,Kalimantan,Adult,18,3
+1947,32,Jakarta,Senior,5,2
+1948,46,Jakarta,Senior,19,2
+1949,46,Sulawesi,Senior,2,1
+1950,28,Jawa Timur,Senior,12,4
+1951,69,Jawa Tengah,Senior,17,2
+1952,49,Jawa Timur,Youth,10,1
+1953,19,Kalimantan,Youth,34,2
+1954,64,Jawa Tengah,Adult,6,1
+1955,31,Sumatera,Youth,8,2
+1956,37,Jawa Barat,Youth,11,2
+1957,39,Sumatera,Youth,12,2
+1958,28,Kalimantan,Senior,9,3
+1959,44,Jawa Tengah,Adult,2,1
+1960,20,Kalimantan,Adult,8,2
+1961,34,Jawa Barat,Adult,11,2
+1962,61,Jakarta,Adult,36,2
+1963,45,Jakarta,Youth,10,3
+1964,46,Kalimantan,Youth,21,2
+1965,38,Jawa Timur,Senior,20,2
+1966,64,Jawa Tengah,Adult,8,1
+1967,33,Jawa Tengah,Youth,36,4
+1968,54,Jakarta,Youth,29,2
+1969,37,Sulawesi,Senior,42,3
+1970,23,Sumatera,Senior,12,1
+1971,36,Sulawesi,Senior,14,1
+1972,22,Jawa Barat,Youth,21,2
+1973,20,Sumatera,Youth,22,3
+1974,18,Sumatera,Senior,21,2
+1975,55,Kalimantan,Adult,44,4
+1976,32,Jakarta,Senior,30,2
+1977,51,Sulawesi,Senior,39,2
+1978,52,Sulawesi,Senior,20,1
+1979,66,Jakarta,Senior,24,3
+1980,42,Sulawesi,Youth,23,1
+1981,41,Jakarta,Adult,7,3
+1982,29,Kalimantan,Senior,9,4
+1983,35,Jawa Timur,Adult,1,4
+1984,32,Sumatera,Adult,26,2
+1985,61,Kalimantan,Adult,38,2
+1986,33,Jawa Tengah,Senior,38,3
+1987,44,Jawa Barat,Youth,44,1
+1988,25,Jawa Timur,Senior,22,2
+1989,63,Jawa Tengah,Adult,44,1
+1990,42,Sumatera,Adult,10,2
+1991,34,Sulawesi,Youth,6,1
+1992,46,Jakarta,Senior,17,1
+1993,25,Sumatera,Adult,38,2
+1994,32,Kalimantan,Youth,24,2
+1995,44,Jawa Barat,Adult,10,2
+1996,63,Kalimantan,Youth,8,1
+1997,67,Jawa Timur,Youth,21,2
+1998,69,Jawa Timur,Senior,6,1
+1999,24,Jawa Barat,Adult,21,2
+2000,20,Jawa Tengah,Senior,39,2

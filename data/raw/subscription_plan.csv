@@ -1,0 +1,5 @@
+plan_id,plan_name,monthly_fee,data_quota,call_quota
+1,Basic,50000,5,100
+2,Standard,75000,15,300
+3,Premium,120000,30,1000
+4,Unlimited,180000,100,5000

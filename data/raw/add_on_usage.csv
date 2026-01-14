@@ -1,0 +1,713 @@
+customer_id,add_on_name,add_on_price
+1,Extra Data 10GB,30000
+4,Gaming Pack,30000
+5,Extra Data 5GB,30000
+6,Streaming Pack,40000
+14,Gaming Pack,40000
+19,Gaming Pack,30000
+21,Extra Data 10GB,25000
+24,Extra Data 10GB,25000
+29,Gaming Pack,15000
+30,Extra Data 10GB,15000
+34,Extra Data 10GB,15000
+36,Streaming Pack,15000
+41,Gaming Pack,25000
+47,Extra Data 10GB,15000
+48,Extra Data 5GB,25000
+57,Streaming Pack,40000
+65,Extra Data 5GB,25000
+70,Streaming Pack,15000
+72,Extra Data 5GB,30000
+73,Extra Data 5GB,25000
+74,Extra Data 10GB,25000
+81,Streaming Pack,40000
+87,Gaming Pack,30000
+88,Streaming Pack,25000
+89,Extra Data 10GB,40000
+90,Streaming Pack,40000
+94,Extra Data 5GB,15000
+97,Gaming Pack,15000
+103,Extra Data 10GB,25000
+104,Extra Data 5GB,15000
+105,Gaming Pack,25000
+109,Extra Data 10GB,30000
+110,Streaming Pack,25000
+113,Streaming Pack,15000
+115,Streaming Pack,30000
+118,Gaming Pack,40000
+129,Gaming Pack,40000
+130,Extra Data 5GB,40000
+132,Streaming Pack,40000
+137,Streaming Pack,40000
+138,Gaming Pack,15000
+140,Extra Data 10GB,15000
+141,Streaming Pack,40000
+143,Extra Data 5GB,25000
+144,Extra Data 5GB,15000
+146,Streaming Pack,15000
+148,Streaming Pack,25000
+152,Gaming Pack,40000
+162,Extra Data 10GB,40000
+163,Extra Data 5GB,25000
+164,Streaming Pack,25000
+166,Gaming Pack,15000
+167,Extra Data 10GB,25000
+168,Extra Data 5GB,15000
+170,Streaming Pack,25000
+173,Extra Data 10GB,40000
+174,Extra Data 5GB,25000
+175,Extra Data 5GB,40000
+177,Extra Data 5GB,25000
+181,Extra Data 10GB,25000
+183,Extra Data 10GB,40000
+187,Extra Data 10GB,15000
+189,Extra Data 10GB,40000
+190,Gaming Pack,15000
+191,Gaming Pack,40000
+194,Extra Data 5GB,15000
+196,Streaming Pack,30000
+197,Gaming Pack,40000
+198,Streaming Pack,30000
+202,Gaming Pack,30000
+203,Extra Data 5GB,15000
+205,Extra Data 5GB,30000
+208,Extra Data 5GB,25000
+214,Gaming Pack,40000
+216,Streaming Pack,40000
+218,Extra Data 10GB,30000
+223,Streaming Pack,15000
+225,Gaming Pack,40000
+226,Extra Data 5GB,15000
+228,Extra Data 5GB,30000
+234,Streaming Pack,25000
+236,Extra Data 5GB,25000
+239,Streaming Pack,15000
+243,Extra Data 10GB,25000
+251,Extra Data 10GB,40000
+255,Extra Data 10GB,30000
+259,Gaming Pack,40000
+260,Gaming Pack,25000
+263,Gaming Pack,15000
+264,Extra Data 5GB,40000
+265,Gaming Pack,30000
+268,Streaming Pack,40000
+269,Gaming Pack,30000
+270,Streaming Pack,25000
+272,Gaming Pack,30000
+273,Streaming Pack,30000
+276,Extra Data 5GB,40000
+282,Extra Data 10GB,30000
+284,Gaming Pack,40000
+286,Streaming Pack,30000
+289,Gaming Pack,30000
+290,Extra Data 10GB,30000
+291,Extra Data 10GB,15000
+292,Streaming Pack,30000
+293,Extra Data 10GB,25000
+295,Gaming Pack,25000
+300,Streaming Pack,30000
+302,Extra Data 5GB,40000
+303,Extra Data 10GB,30000
+304,Streaming Pack,15000
+307,Extra Data 10GB,25000
+308,Extra Data 10GB,15000
+310,Extra Data 5GB,30000
+322,Streaming Pack,25000
+323,Streaming Pack,15000
+328,Streaming Pack,15000
+329,Extra Data 10GB,40000
+331,Gaming Pack,25000
+336,Extra Data 10GB,25000
+339,Extra Data 5GB,30000
+340,Extra Data 5GB,30000
+341,Extra Data 5GB,30000
+346,Extra Data 5GB,40000
+347,Extra Data 5GB,15000
+348,Extra Data 5GB,40000
+350,Extra Data 5GB,15000
+352,Extra Data 10GB,25000
+353,Streaming Pack,15000
+360,Gaming Pack,25000
+361,Gaming Pack,25000
+363,Extra Data 5GB,40000
+365,Streaming Pack,25000
+367,Gaming Pack,40000
+368,Extra Data 5GB,15000
+369,Streaming Pack,25000
+371,Streaming Pack,15000
+372,Gaming Pack,30000
+373,Gaming Pack,15000
+375,Extra Data 5GB,15000
+378,Extra Data 5GB,30000
+379,Extra Data 5GB,40000
+380,Streaming Pack,30000
+384,Extra Data 5GB,25000
+390,Extra Data 10GB,25000
+393,Extra Data 10GB,15000
+397,Streaming Pack,30000
+399,Streaming Pack,25000
+401,Streaming Pack,25000
+407,Gaming Pack,15000
+408,Streaming Pack,40000
+409,Extra Data 5GB,25000
+411,Streaming Pack,25000
+413,Extra Data 5GB,25000
+422,Extra Data 10GB,30000
+426,Streaming Pack,25000
+430,Extra Data 5GB,30000
+441,Extra Data 5GB,25000
+443,Gaming Pack,15000
+445,Extra Data 5GB,25000
+449,Streaming Pack,15000
+450,Gaming Pack,40000
+452,Streaming Pack,25000
+453,Extra Data 10GB,40000
+454,Gaming Pack,30000
+457,Gaming Pack,15000
+458,Extra Data 5GB,15000
+461,Streaming Pack,40000
+464,Gaming Pack,15000
+465,Extra Data 10GB,30000
+467,Streaming Pack,15000
+470,Extra Data 5GB,25000
+477,Extra Data 5GB,25000
+478,Extra Data 10GB,30000
+482,Gaming Pack,25000
+483,Streaming Pack,40000
+485,Streaming Pack,25000
+487,Extra Data 10GB,40000
+496,Extra Data 10GB,15000
+499,Extra Data 5GB,30000
+500,Gaming Pack,15000
+502,Gaming Pack,25000
+506,Extra Data 5GB,15000
+511,Gaming Pack,25000
+521,Extra Data 10GB,25000
+522,Extra Data 5GB,40000
+523,Gaming Pack,15000
+524,Extra Data 5GB,40000
+529,Streaming Pack,15000
+530,Extra Data 10GB,30000
+533,Extra Data 10GB,15000
+535,Gaming Pack,30000
+539,Extra Data 5GB,30000
+549,Gaming Pack,15000
+551,Extra Data 5GB,40000
+552,Streaming Pack,25000
+554,Extra Data 5GB,25000
+555,Streaming Pack,30000
+557,Streaming Pack,30000
+561,Extra Data 5GB,25000
+562,Gaming Pack,25000
+567,Extra Data 10GB,40000
+569,Gaming Pack,25000
+572,Extra Data 5GB,25000
+574,Extra Data 5GB,40000
+583,Extra Data 5GB,40000
+584,Extra Data 10GB,40000
+585,Gaming Pack,25000
+586,Gaming Pack,30000
+590,Streaming Pack,25000
+596,Extra Data 10GB,15000
+597,Extra Data 5GB,40000
+600,Gaming Pack,15000
+602,Extra Data 5GB,15000
+604,Extra Data 10GB,40000
+606,Streaming Pack,30000
+607,Streaming Pack,30000
+608,Extra Data 5GB,25000
+609,Gaming Pack,25000
+611,Gaming Pack,40000
+620,Gaming Pack,30000
+621,Extra Data 5GB,40000
+623,Extra Data 5GB,30000
+628,Extra Data 10GB,15000
+629,Streaming Pack,30000
+630,Streaming Pack,25000
+635,Extra Data 10GB,30000
+638,Streaming Pack,40000
+641,Extra Data 5GB,15000
+643,Gaming Pack,30000
+647,Extra Data 10GB,25000
+648,Extra Data 10GB,40000
+649,Extra Data 10GB,25000
+654,Extra Data 10GB,40000
+657,Extra Data 10GB,40000
+669,Gaming Pack,30000
+673,Streaming Pack,15000
+674,Extra Data 5GB,30000
+675,Extra Data 5GB,25000
+676,Streaming Pack,15000
+678,Gaming Pack,15000
+679,Extra Data 5GB,15000
+682,Extra Data 5GB,15000
+683,Gaming Pack,40000
+695,Streaming Pack,40000
+696,Extra Data 5GB,30000
+697,Extra Data 5GB,25000
+699,Gaming Pack,15000
+700,Streaming Pack,30000
+702,Extra Data 5GB,25000
+703,Streaming Pack,40000
+717,Extra Data 10GB,30000
+720,Extra Data 5GB,40000
+726,Extra Data 10GB,25000
+729,Extra Data 10GB,30000
+730,Gaming Pack,25000
+736,Gaming Pack,15000
+742,Streaming Pack,25000
+744,Extra Data 5GB,40000
+746,Extra Data 10GB,30000
+747,Streaming Pack,25000
+748,Gaming Pack,30000
+751,Streaming Pack,40000
+753,Extra Data 10GB,15000
+754,Gaming Pack,40000
+756,Streaming Pack,40000
+760,Extra Data 5GB,30000
+762,Extra Data 5GB,40000
+765,Extra Data 10GB,30000
+766,Gaming Pack,15000
+769,Streaming Pack,25000
+772,Streaming Pack,15000
+774,Extra Data 5GB,40000
+775,Extra Data 5GB,25000
+776,Extra Data 5GB,40000
+777,Gaming Pack,15000
+782,Extra Data 5GB,25000
+788,Extra Data 10GB,30000
+791,Extra Data 10GB,25000
+794,Extra Data 10GB,25000
+795,Extra Data 5GB,40000
+797,Gaming Pack,15000
+799,Extra Data 10GB,25000
+800,Extra Data 5GB,25000
+803,Gaming Pack,15000
+804,Gaming Pack,15000
+805,Streaming Pack,25000
+808,Extra Data 10GB,40000
+810,Streaming Pack,40000
+811,Gaming Pack,25000
+813,Extra Data 5GB,25000
+814,Gaming Pack,15000
+822,Streaming Pack,15000
+826,Streaming Pack,15000
+827,Streaming Pack,30000
+828,Streaming Pack,40000
+831,Gaming Pack,30000
+840,Gaming Pack,30000
+841,Extra Data 10GB,30000
+845,Streaming Pack,30000
+847,Extra Data 10GB,40000
+850,Extra Data 10GB,30000
+861,Extra Data 10GB,40000
+862,Streaming Pack,40000
+869,Extra Data 10GB,15000
+871,Streaming Pack,15000
+873,Extra Data 10GB,15000
+874,Extra Data 10GB,30000
+876,Extra Data 5GB,30000
+879,Streaming Pack,25000
+880,Extra Data 5GB,15000
+881,Extra Data 5GB,30000
+882,Extra Data 5GB,40000
+883,Extra Data 5GB,40000
+886,Extra Data 10GB,40000
+890,Extra Data 10GB,40000
+893,Streaming Pack,40000
+897,Streaming Pack,25000
+900,Gaming Pack,15000
+901,Extra Data 10GB,40000
+905,Streaming Pack,30000
+912,Extra Data 10GB,25000
+915,Extra Data 5GB,25000
+918,Extra Data 10GB,15000
+919,Gaming Pack,25000
+924,Extra Data 5GB,30000
+925,Extra Data 5GB,30000
+926,Extra Data 5GB,30000
+927,Extra Data 5GB,25000
+942,Extra Data 5GB,25000
+946,Gaming Pack,40000
+953,Extra Data 10GB,25000
+954,Extra Data 5GB,40000
+958,Gaming Pack,30000
+960,Streaming Pack,25000
+962,Extra Data 5GB,25000
+964,Streaming Pack,30000
+965,Extra Data 5GB,25000
+968,Gaming Pack,40000
+971,Streaming Pack,40000
+974,Gaming Pack,25000
+976,Streaming Pack,40000
+977,Extra Data 10GB,30000
+978,Extra Data 5GB,25000
+983,Extra Data 10GB,30000
+984,Streaming Pack,40000
+985,Extra Data 10GB,15000
+987,Streaming Pack,30000
+988,Gaming Pack,30000
+990,Extra Data 10GB,30000
+992,Extra Data 10GB,15000
+998,Extra Data 10GB,25000
+1002,Extra Data 5GB,30000
+1003,Streaming Pack,30000
+1004,Streaming Pack,40000
+1008,Extra Data 5GB,40000
+1010,Extra Data 5GB,30000
+1011,Gaming Pack,40000
+1019,Extra Data 10GB,15000
+1021,Streaming Pack,30000
+1024,Extra Data 10GB,30000
+1025,Gaming Pack,40000
+1029,Extra Data 5GB,25000
+1030,Extra Data 5GB,15000
+1033,Extra Data 10GB,40000
+1035,Extra Data 10GB,15000
+1037,Streaming Pack,15000
+1041,Streaming Pack,25000
+1042,Streaming Pack,15000
+1043,Extra Data 10GB,25000
+1045,Extra Data 5GB,30000
+1050,Extra Data 5GB,30000
+1052,Streaming Pack,40000
+1053,Streaming Pack,15000
+1056,Extra Data 10GB,25000
+1057,Gaming Pack,40000
+1061,Gaming Pack,15000
+1062,Extra Data 5GB,30000
+1069,Gaming Pack,25000
+1070,Streaming Pack,15000
+1074,Extra Data 10GB,15000
+1078,Streaming Pack,40000
+1079,Extra Data 10GB,15000
+1085,Gaming Pack,25000
+1092,Gaming Pack,25000
+1093,Streaming Pack,30000
+1099,Streaming Pack,40000
+1101,Extra Data 10GB,40000
+1105,Streaming Pack,15000
+1107,Extra Data 10GB,40000
+1109,Extra Data 5GB,40000
+1110,Extra Data 5GB,25000
+1113,Streaming Pack,15000
+1115,Extra Data 10GB,25000
+1119,Extra Data 5GB,25000
+1123,Extra Data 5GB,30000
+1125,Gaming Pack,25000
+1126,Gaming Pack,30000
+1129,Gaming Pack,30000
+1130,Extra Data 5GB,30000
+1131,Extra Data 10GB,15000
+1134,Gaming Pack,30000
+1135,Gaming Pack,40000
+1136,Extra Data 10GB,40000
+1137,Gaming Pack,40000
+1148,Extra Data 5GB,40000
+1149,Streaming Pack,30000
+1150,Extra Data 5GB,40000
+1152,Gaming Pack,30000
+1157,Streaming Pack,25000
+1160,Extra Data 10GB,30000
+1162,Extra Data 10GB,30000
+1163,Extra Data 5GB,15000
+1168,Extra Data 5GB,40000
+1169,Gaming Pack,15000
+1172,Gaming Pack,25000
+1176,Gaming Pack,40000
+1177,Gaming Pack,25000
+1183,Streaming Pack,25000
+1185,Gaming Pack,40000
+1186,Gaming Pack,40000
+1187,Streaming Pack,30000
+1193,Extra Data 5GB,25000
+1195,Gaming Pack,15000
+1198,Streaming Pack,25000
+1199,Extra Data 5GB,40000
+1204,Gaming Pack,15000
+1205,Gaming Pack,25000
+1208,Extra Data 5GB,40000
+1212,Extra Data 5GB,30000
+1217,Streaming Pack,15000
+1218,Extra Data 10GB,30000
+1220,Gaming Pack,30000
+1222,Streaming Pack,30000
+1227,Streaming Pack,40000
+1230,Streaming Pack,40000
+1231,Streaming Pack,25000
+1232,Gaming Pack,25000
+1237,Extra Data 10GB,40000
+1240,Gaming Pack,15000
+1243,Gaming Pack,15000
+1246,Gaming Pack,25000
+1247,Gaming Pack,30000
+1248,Extra Data 10GB,15000
+1249,Extra Data 10GB,25000
+1252,Streaming Pack,25000
+1254,Streaming Pack,40000
+1255,Extra Data 5GB,30000
+1258,Gaming Pack,15000
+1261,Streaming Pack,15000
+1265,Gaming Pack,15000
+1266,Gaming Pack,40000
+1267,Extra Data 5GB,30000
+1273,Streaming Pack,40000
+1275,Extra Data 5GB,25000
+1277,Extra Data 10GB,25000
+1279,Gaming Pack,25000
+1280,Extra Data 5GB,15000
+1282,Gaming Pack,15000
+1283,Extra Data 10GB,40000
+1285,Gaming Pack,30000
+1289,Gaming Pack,25000
+1290,Extra Data 5GB,30000
+1294,Extra Data 10GB,30000
+1299,Gaming Pack,30000
+1300,Streaming Pack,30000
+1306,Extra Data 10GB,25000
+1314,Extra Data 5GB,25000
+1316,Extra Data 5GB,25000
+1320,Gaming Pack,30000
+1326,Extra Data 10GB,15000
+1328,Streaming Pack,15000
+1330,Streaming Pack,30000
+1331,Extra Data 5GB,40000
+1337,Extra Data 5GB,15000
+1338,Streaming Pack,25000
+1339,Extra Data 5GB,25000
+1340,Extra Data 10GB,40000
+1341,Extra Data 10GB,15000
+1346,Extra Data 5GB,25000
+1348,Extra Data 10GB,15000
+1354,Extra Data 5GB,30000
+1355,Extra Data 10GB,30000
+1358,Streaming Pack,25000
+1360,Extra Data 10GB,25000
+1365,Extra Data 10GB,30000
+1366,Extra Data 10GB,15000
+1368,Gaming Pack,15000
+1371,Extra Data 5GB,40000
+1372,Extra Data 5GB,30000
+1373,Extra Data 5GB,40000
+1374,Gaming Pack,30000
+1382,Extra Data 5GB,30000
+1384,Streaming Pack,25000
+1385,Streaming Pack,25000
+1386,Extra Data 10GB,25000
+1390,Streaming Pack,25000
+1392,Extra Data 5GB,15000
+1400,Streaming Pack,25000
+1402,Extra Data 5GB,15000
+1403,Extra Data 10GB,25000
+1411,Streaming Pack,40000
+1412,Gaming Pack,15000
+1414,Extra Data 10GB,30000
+1422,Extra Data 5GB,25000
+1428,Streaming Pack,25000
+1430,Extra Data 10GB,25000
+1431,Streaming Pack,30000
+1433,Gaming Pack,30000
+1437,Streaming Pack,25000
+1438,Extra Data 10GB,40000
+1441,Extra Data 5GB,40000
+1445,Streaming Pack,40000
+1446,Extra Data 10GB,30000
+1454,Streaming Pack,40000
+1456,Extra Data 5GB,15000
+1459,Streaming Pack,40000
+1461,Extra Data 5GB,25000
+1462,Extra Data 5GB,30000
+1463,Extra Data 5GB,15000
+1467,Extra Data 10GB,15000
+1470,Gaming Pack,25000
+1472,Streaming Pack,40000
+1474,Streaming Pack,25000
+1476,Extra Data 10GB,30000
+1481,Gaming Pack,25000
+1484,Extra Data 5GB,15000
+1487,Streaming Pack,15000
+1488,Gaming Pack,40000
+1491,Streaming Pack,25000
+1493,Extra Data 10GB,25000
+1494,Gaming Pack,15000
+1495,Gaming Pack,30000
+1496,Gaming Pack,40000
+1498,Extra Data 10GB,25000
+1499,Extra Data 5GB,15000
+1500,Streaming Pack,25000
+1501,Extra Data 5GB,40000
+1506,Extra Data 10GB,30000
+1508,Streaming Pack,15000
+1518,Gaming Pack,25000
+1520,Extra Data 5GB,15000
+1521,Extra Data 5GB,25000
+1527,Extra Data 5GB,40000
+1532,Extra Data 5GB,15000
+1533,Streaming Pack,15000
+1536,Extra Data 10GB,15000
+1550,Streaming Pack,15000
+1552,Extra Data 10GB,25000
+1553,Extra Data 10GB,30000
+1555,Extra Data 10GB,15000
+1559,Streaming Pack,30000
+1561,Extra Data 5GB,30000
+1566,Extra Data 5GB,15000
+1568,Extra Data 5GB,40000
+1571,Streaming Pack,30000
+1572,Extra Data 10GB,40000
+1573,Extra Data 5GB,25000
+1574,Extra Data 10GB,15000
+1577,Gaming Pack,40000
+1580,Streaming Pack,40000
+1582,Extra Data 5GB,25000
+1583,Extra Data 5GB,40000
+1587,Extra Data 10GB,40000
+1588,Streaming Pack,40000
+1589,Extra Data 10GB,30000
+1590,Extra Data 5GB,25000
+1594,Extra Data 10GB,25000
+1599,Extra Data 5GB,30000
+1600,Gaming Pack,30000
+1602,Streaming Pack,15000
+1606,Extra Data 5GB,30000
+1607,Extra Data 5GB,30000
+1613,Gaming Pack,15000
+1619,Extra Data 10GB,30000
+1622,Streaming Pack,25000
+1623,Gaming Pack,30000
+1625,Gaming Pack,25000
+1628,Gaming Pack,25000
+1630,Extra Data 10GB,25000
+1634,Extra Data 5GB,40000
+1635,Extra Data 5GB,40000
+1637,Streaming Pack,30000
+1639,Extra Data 5GB,40000
+1642,Extra Data 10GB,15000
+1643,Extra Data 5GB,15000
+1644,Gaming Pack,25000
+1645,Gaming Pack,30000
+1649,Extra Data 5GB,15000
+1650,Streaming Pack,30000
+1651,Extra Data 5GB,30000
+1653,Extra Data 5GB,25000
+1654,Extra Data 10GB,30000
+1655,Gaming Pack,15000
+1656,Extra Data 10GB,30000
+1659,Streaming Pack,40000
+1660,Extra Data 5GB,30000
+1663,Extra Data 5GB,25000
+1668,Streaming Pack,15000
+1669,Extra Data 10GB,25000
+1670,Gaming Pack,25000
+1672,Gaming Pack,15000
+1673,Extra Data 10GB,40000
+1677,Streaming Pack,25000
+1679,Extra Data 5GB,30000
+1680,Gaming Pack,15000
+1683,Extra Data 10GB,30000
+1685,Extra Data 10GB,25000
+1691,Streaming Pack,15000
+1694,Streaming Pack,15000
+1704,Streaming Pack,25000
+1708,Streaming Pack,15000
+1710,Extra Data 5GB,40000
+1718,Streaming Pack,30000
+1724,Extra Data 5GB,40000
+1725,Gaming Pack,15000
+1726,Extra Data 10GB,15000
+1727,Extra Data 5GB,25000
+1729,Gaming Pack,15000
+1732,Extra Data 10GB,15000
+1733,Streaming Pack,15000
+1735,Streaming Pack,15000
+1736,Streaming Pack,25000
+1737,Gaming Pack,30000
+1741,Streaming Pack,25000
+1742,Extra Data 10GB,15000
+1743,Extra Data 5GB,25000
+1744,Extra Data 10GB,30000
+1751,Extra Data 5GB,25000
+1752,Gaming Pack,25000
+1756,Streaming Pack,40000
+1757,Gaming Pack,15000
+1760,Gaming Pack,25000
+1764,Extra Data 10GB,30000
+1766,Extra Data 5GB,30000
+1768,Extra Data 5GB,30000
+1769,Extra Data 5GB,30000
+1770,Gaming Pack,25000
+1774,Streaming Pack,30000
+1783,Gaming Pack,25000
+1784,Streaming Pack,25000
+1785,Streaming Pack,15000
+1786,Streaming Pack,25000
+1790,Extra Data 10GB,40000
+1791,Extra Data 5GB,25000
+1794,Extra Data 10GB,30000
+1796,Extra Data 10GB,30000
+1798,Gaming Pack,25000
+1801,Gaming Pack,40000
+1803,Streaming Pack,30000
+1806,Streaming Pack,15000
+1807,Extra Data 5GB,40000
+1808,Extra Data 5GB,25000
+1809,Gaming Pack,30000
+1815,Extra Data 10GB,30000
+1817,Streaming Pack,25000
+1819,Gaming Pack,40000
+1820,Extra Data 10GB,30000
+1821,Gaming Pack,25000
+1822,Extra Data 10GB,40000
+1824,Gaming Pack,15000
+1830,Extra Data 10GB,40000
+1840,Extra Data 10GB,15000
+1841,Gaming Pack,15000
+1844,Gaming Pack,30000
+1846,Extra Data 10GB,25000
+1849,Streaming Pack,30000
+1861,Extra Data 10GB,15000
+1864,Gaming Pack,40000
+1865,Extra Data 5GB,30000
+1867,Extra Data 5GB,30000
+1868,Extra Data 10GB,30000
+1879,Extra Data 10GB,15000
+1881,Streaming Pack,30000
+1883,Extra Data 5GB,25000
+1885,Extra Data 5GB,30000
+1886,Extra Data 5GB,15000
+1888,Gaming Pack,40000
+1893,Gaming Pack,25000
+1897,Streaming Pack,30000
+1900,Gaming Pack,30000
+1901,Extra Data 5GB,25000
+1902,Streaming Pack,25000
+1904,Extra Data 5GB,25000
+1906,Extra Data 10GB,30000
+1910,Gaming Pack,30000
+1918,Extra Data 10GB,30000
+1920,Extra Data 5GB,30000
+1926,Extra Data 5GB,15000
+1927,Extra Data 5GB,40000
+1930,Extra Data 10GB,40000
+1943,Streaming Pack,30000
+1945,Gaming Pack,25000
+1952,Gaming Pack,40000
+1956,Extra Data 5GB,25000
+1959,Gaming Pack,15000
+1960,Extra Data 10GB,15000
+1961,Gaming Pack,40000
+1962,Gaming Pack,25000
+1968,Streaming Pack,30000
+1969,Extra Data 10GB,15000
+1971,Extra Data 10GB,25000
+1974,Gaming Pack,30000
+1976,Extra Data 10GB,25000
+1978,Extra Data 10GB,30000
+1982,Streaming Pack,40000
+1983,Gaming Pack,30000
+1987,Extra Data 10GB,25000
+1989,Extra Data 10GB,15000
+1990,Extra Data 10GB,30000
+1991,Streaming Pack,40000
+1994,Extra Data 5GB,15000
+1999,Extra Data 10GB,25000
